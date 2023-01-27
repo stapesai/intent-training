@@ -1,0 +1,4 @@
+Silence
+Turn off audio
+Turn off the sound
+Mute the speaker

@@ -1,0 +1,944 @@
+{
+    "reduce the volume adjuster": {
+        "intent": "volume.decrease",
+        "entities": {
+            "volume": "current_volume - volume_decrement"
+        }
+    },
+    "bring down the sound output": {
+        "intent": "volume.decrease",
+        "entities": {
+            "volume": "current_volume - volume_decrement"
+        }
+    },
+    "decrease the volume output": {
+        "intent": "volume.decrease",
+        "entities": {
+            "volume": "current_volume - volume_decrement"
+        }
+    },
+    "decrease the volume adjuster level": {
+        "intent": "volume.decrease",
+        "entities": {
+            "volume": "current_volume - volume_decrement"
+        }
+    },
+    "make the volume setting quieter": {
+        "intent": "volume.decrease",
+        "entities": {
+            "volume": "current_volume - volume_decrement"
+        }
+    },
+    "soften the audio": {
+        "intent": "volume.decrease",
+        "entities": {
+            "volume": "current_volume - volume_decrement"
+        }
+    },
+    "make the volume control quieter": {
+        "intent": "volume.decrease",
+        "entities": {
+            "volume": "current_volume - volume_decrement"
+        }
+    },
+    "decrease the sound output level": {
+        "intent": "volume.decrease",
+        "entities": {
+            "volume": "current_volume - volume_decrement"
+        }
+    },
+    "bring down the volume": {
+        "intent": "volume.decrease",
+        "entities": {
+            "volume": "current_volume - volume_decrement"
+        }
+    },
+    "bring down the volume adjuster": {
+        "intent": "volume.decrease",
+        "entities": {
+            "volume": "current_volume - volume_decrement"
+        }
+    },
+    "decrease the volume button": {
+        "intent": "volume.decrease",
+        "entities": {
+            "volume": "current_volume - volume_decrement"
+        }
+    },
+    "turn the volume down": {
+        "intent": "volume.decrease",
+        "entities": {
+            "volume": "current_volume - volume_decrement"
+        }
+    },
+    "make the volume level lower": {
+        "intent": "volume.decrease",
+        "entities": {
+            "volume": "current_volume - volume_decrement"
+        }
+    },
+    "decrease the sound level level": {
+        "intent": "volume.decrease",
+        "entities": {
+            "volume": "current_volume - volume_decrement"
+        }
+    },
+    "decrease the sound intensity level": {
+        "intent": "volume.decrease",
+        "entities": {
+            "volume": "current_volume - volume_decrement"
+        }
+    },
+    "turn down the volume slider": {
+        "intent": "volume.decrease",
+        "entities": {
+            "volume": "current_volume - volume_decrement"
+        }
+    },
+    "reduce the volume output level": {
+        "intent": "volume.decrease",
+        "entities": {
+            "volume": "current_volume - volume_decrement"
+        }
+    },
+    "make the sound lower": {
+        "intent": "volume.decrease",
+        "entities": {
+            "volume": "current_volume - volume_decrement"
+        }
+    },
+    "reduce the volume knob": {
+        "intent": "volume.decrease",
+        "entities": {
+            "volume": "current_volume - volume_decrement"
+        }
+    },
+    "decrease the volume button level": {
+        "intent": "volume.decrease",
+        "entities": {
+            "volume": "current_volume - volume_decrement"
+        }
+    },
+    "turn down the volume control": {
+        "intent": "volume.decrease",
+        "entities": {
+            "volume": "current_volume - volume_decrement"
+        }
+    },
+    "quiet down the sound level": {
+        "intent": "volume.decrease",
+        "entities": {
+            "volume": "current_volume - volume_decrement"
+        }
+    },
+    "decrease the volume setting": {
+        "intent": "volume.decrease",
+        "entities": {
+            "volume": "current_volume - volume_decrement"
+        }
+    },
+    "bring down the audio": {
+        "intent": "volume.decrease",
+        "entities": {
+            "volume": "current_volume - volume_decrement"
+        }
+    },
+    "quiet down the volume level": {
+        "intent": "volume.decrease",
+        "entities": {
+            "volume": "current_volume - volume_decrement"
+        }
+    },
+    "diminish the volume": {
+        "intent": "volume.decrease",
+        "entities": {
+            "volume": "current_volume - volume_decrement"
+        }
+    },
+    "decrease the audio level": {
+        "intent": "volume.decrease",
+        "entities": {
+            "volume": "current_volume - volume_decrement"
+        }
+    },
+    "bring down the volume output": {
+        "intent": "volume.decrease",
+        "entities": {
+            "volume": "current_volume - volume_decrement"
+        }
+    },
+    "make the volume slider lower": {
+        "intent": "volume.decrease",
+        "entities": {
+            "volume": "current_volume - volume_decrement"
+        }
+    },
+    "make the volume regulator quieter": {
+        "intent": "volume.decrease",
+        "entities": {
+            "volume": "current_volume - volume_decrement"
+        }
+    },
+    "reduce the audio level": {
+        "intent": "volume.decrease",
+        "entities": {
+            "volume": "current_volume - volume_decrement"
+        }
+    },
+    "bring down the volume knob": {
+        "intent": "volume.decrease",
+        "entities": {
+            "volume": "current_volume - volume_decrement"
+        }
+    },
+    "turn down the audio": {
+        "intent": "volume.decrease",
+        "entities": {
+            "volume": "current_volume - volume_decrement"
+        }
+    },
+    "reduce the volume": {
+        "intent": "volume.decrease",
+        "entities": {
+            "volume": "current_volume - volume_decrement"
+        }
+    },
+    "quiet down the volume slider": {
+        "intent": "volume.decrease",
+        "entities": {
+            "volume": "current_volume - volume_decrement"
+        }
+    },
+    "decrease the sound intensity": {
+        "intent": "volume.decrease",
+        "entities": {
+            "volume": "current_volume - volume_decrement"
+        }
+    },
+    "tone down the sound output": {
+        "intent": "volume.decrease",
+        "entities": {
+            "volume": "current_volume - volume_decrement"
+        }
+    },
+    "quiet down the volume knob": {
+        "intent": "volume.decrease",
+        "entities": {
+            "volume": "current_volume - volume_decrement"
+        }
+    },
+    "make the volume slider quieter": {
+        "intent": "volume.decrease",
+        "entities": {
+            "volume": "current_volume - volume_decrement"
+        }
+    },
+    "quiet down the volume button": {
+        "intent": "volume.decrease",
+        "entities": {
+            "volume": "current_volume - volume_decrement"
+        }
+    },
+    "decrease the volume slider": {
+        "intent": "volume.decrease",
+        "entities": {
+            "volume": "current_volume - volume_decrement"
+        }
+    },
+    "soften the volume knob": {
+        "intent": "volume.decrease",
+        "entities": {
+            "volume": "current_volume - volume_decrement"
+        }
+    },
+    "make it less loud": {
+        "intent": "volume.decrease",
+        "entities": {
+            "volume": "current_volume - volume_decrement"
+        }
+    },
+    "make the sound level lower": {
+        "intent": "volume.decrease",
+        "entities": {
+            "volume": "current_volume - volume_decrement"
+        }
+    },
+    "turn down the sound output": {
+        "intent": "volume.decrease",
+        "entities": {
+            "volume": "current_volume - volume_decrement"
+        }
+    },
+    "decrease the volume adjuster": {
+        "intent": "volume.decrease",
+        "entities": {
+            "volume": "current_volume - volume_decrement"
+        }
+    },
+    "soften the volume adjuster": {
+        "intent": "volume.decrease",
+        "entities": {
+            "volume": "current_volume - volume_decrement"
+        }
+    },
+    "reduce the volume regulator": {
+        "intent": "volume.decrease",
+        "entities": {
+            "volume": "current_volume - volume_decrement"
+        }
+    },
+    "reduce the sound intensity": {
+        "intent": "volume.decrease",
+        "entities": {
+            "volume": "current_volume - volume_decrement"
+        }
+    },
+    "quiet down the volume output": {
+        "intent": "volume.decrease",
+        "entities": {
+            "volume": "current_volume - volume_decrement"
+        }
+    },
+    "make the volume knob quieter": {
+        "intent": "volume.decrease",
+        "entities": {
+            "volume": "current_volume - volume_decrement"
+        }
+    },
+    "soften the volume output": {
+        "intent": "volume.decrease",
+        "entities": {
+            "volume": "current_volume - volume_decrement"
+        }
+    },
+    "make the audio lower": {
+        "intent": "volume.decrease",
+        "entities": {
+            "volume": "current_volume - volume_decrement"
+        }
+    },
+    "reduce the audio": {
+        "intent": "volume.decrease",
+        "entities": {
+            "volume": "current_volume - volume_decrement"
+        }
+    },
+    "decrease the volume slider level": {
+        "intent": "volume.decrease",
+        "entities": {
+            "volume": "current_volume - volume_decrement"
+        }
+    },
+    "make the sound level quieter": {
+        "intent": "volume.decrease",
+        "entities": {
+            "volume": "current_volume - volume_decrement"
+        }
+    },
+    "soften the sound output": {
+        "intent": "volume.decrease",
+        "entities": {
+            "volume": "current_volume - volume_decrement"
+        }
+    },
+    "decrease the volume knob": {
+        "intent": "volume.decrease",
+        "entities": {
+            "volume": "current_volume - volume_decrement"
+        }
+    },
+    "lower the volume adjuster": {
+        "intent": "volume.decrease",
+        "entities": {
+            "volume": "current_volume - volume_decrement"
+        }
+    },
+    "reduce the sound output": {
+        "intent": "volume.decrease",
+        "entities": {
+            "volume": "current_volume - volume_decrement"
+        }
+    },
+    "lower the volume regulator": {
+        "intent": "volume.decrease",
+        "entities": {
+            "volume": "current_volume - volume_decrement"
+        }
+    },
+    "reduce the sound": {
+        "intent": "volume.decrease",
+        "entities": {
+            "volume": "current_volume - volume_decrement"
+        }
+    },
+    "make the volume output quieter": {
+        "intent": "volume.decrease",
+        "entities": {
+            "volume": "current_volume - volume_decrement"
+        }
+    },
+    "soften the sound intensity": {
+        "intent": "volume.decrease",
+        "entities": {
+            "volume": "current_volume - volume_decrement"
+        }
+    },
+    "make it less deafening": {
+        "intent": "volume.decrease",
+        "entities": {
+            "volume": "current_volume - volume_decrement"
+        }
+    },
+    "lower the volume button": {
+        "intent": "volume.decrease",
+        "entities": {
+            "volume": "current_volume - volume_decrement"
+        }
+    },
+    "lower the volume slider": {
+        "intent": "volume.decrease",
+        "entities": {
+            "volume": "current_volume - volume_decrement"
+        }
+    },
+    "decrease the volume regulator": {
+        "intent": "volume.decrease",
+        "entities": {
+            "volume": "current_volume - volume_decrement"
+        }
+    },
+    "make it less loudness": {
+        "intent": "volume.decrease",
+        "entities": {
+            "volume": "current_volume - volume_decrement"
+        }
+    },
+    "soften the volume button": {
+        "intent": "volume.decrease",
+        "entities": {
+            "volume": "current_volume - volume_decrement"
+        }
+    },
+    "decrease the volume output level": {
+        "intent": "volume.decrease",
+        "entities": {
+            "volume": "current_volume - volume_decrement"
+        }
+    },
+    "decrease the volume control": {
+        "intent": "volume.decrease",
+        "entities": {
+            "volume": "current_volume - volume_decrement"
+        }
+    },
+    "reduce the volume setting": {
+        "intent": "volume.decrease",
+        "entities": {
+            "volume": "current_volume - volume_decrement"
+        }
+    },
+    "reduce the volume button": {
+        "intent": "volume.decrease",
+        "entities": {
+            "volume": "current_volume - volume_decrement"
+        }
+    },
+    "quiet down the volume setting": {
+        "intent": "volume.decrease",
+        "entities": {
+            "volume": "current_volume - volume_decrement"
+        }
+    },
+    "lower the sound output level": {
+        "intent": "volume.decrease",
+        "entities": {
+            "volume": "current_volume - volume_decrement"
+        }
+    },
+    "make it less ear piercing": {
+        "intent": "volume.decrease",
+        "entities": {
+            "volume": "current_volume - volume_decrement"
+        }
+    },
+    "make the volume setting lower": {
+        "intent": "volume.decrease",
+        "entities": {
+            "volume": "current_volume - volume_decrement"
+        }
+    },
+    "bring down the volume button": {
+        "intent": "volume.decrease",
+        "entities": {
+            "volume": "current_volume - volume_decrement"
+        }
+    },
+    "lower the volume output": {
+        "intent": "volume.decrease",
+        "entities": {
+            "volume": "current_volume - volume_decrement"
+        }
+    },
+    "turn down the volume output": {
+        "intent": "volume.decrease",
+        "entities": {
+            "volume": "current_volume - volume_decrement"
+        }
+    },
+    "turn down the volume regulator": {
+        "intent": "volume.decrease",
+        "entities": {
+            "volume": "current_volume - volume_decrement"
+        }
+    },
+    "make the volume button lower": {
+        "intent": "volume.decrease",
+        "entities": {
+            "volume": "current_volume - volume_decrement"
+        }
+    },
+    "quiet down the volume regulator": {
+        "intent": "volume.decrease",
+        "entities": {
+            "volume": "current_volume - volume_decrement"
+        }
+    },
+    "bring down the volume control": {
+        "intent": "volume.decrease",
+        "entities": {
+            "volume": "current_volume - volume_decrement"
+        }
+    },
+    "make the volume level quieter": {
+        "intent": "volume.decrease",
+        "entities": {
+            "volume": "current_volume - volume_decrement"
+        }
+    },
+    "lower the volume control": {
+        "intent": "volume.decrease",
+        "entities": {
+            "volume": "current_volume - volume_decrement"
+        }
+    },
+    "bring down the volume level": {
+        "intent": "volume.decrease",
+        "entities": {
+            "volume": "current_volume - volume_decrement"
+        }
+    },
+    "bring down the volume slider": {
+        "intent": "volume.decrease",
+        "entities": {
+            "volume": "current_volume - volume_decrement"
+        }
+    },
+    "decrease the sound": {
+        "intent": "volume.decrease",
+        "entities": {
+            "volume": "current_volume - volume_decrement"
+        }
+    },
+    "lower the sound intensity": {
+        "intent": "volume.decrease",
+        "entities": {
+            "volume": "current_volume - volume_decrement"
+        }
+    },
+    "decrease the volume level": {
+        "intent": "volume.decrease",
+        "entities": {
+            "volume": "current_volume - volume_decrement"
+        }
+    },
+    "decrease the volume": {
+        "intent": "volume.decrease",
+        "entities": {
+            "volume": "current_volume - volume_decrement"
+        }
+    },
+    "soften the sound level": {
+        "intent": "volume.decrease",
+        "entities": {
+            "volume": "current_volume - volume_decrement"
+        }
+    },
+    "make the volume control lower": {
+        "intent": "volume.decrease",
+        "entities": {
+            "volume": "current_volume - volume_decrement"
+        }
+    },
+    "reduce the volume control": {
+        "intent": "volume.decrease",
+        "entities": {
+            "volume": "current_volume - volume_decrement"
+        }
+    },
+    "turn down the sound intensity": {
+        "intent": "volume.decrease",
+        "entities": {
+            "volume": "current_volume - volume_decrement"
+        }
+    },
+    "quiet down the audio": {
+        "intent": "volume.decrease",
+        "entities": {
+            "volume": "current_volume - volume_decrement"
+        }
+    },
+    "lower the sound output": {
+        "intent": "volume.decrease",
+        "entities": {
+            "volume": "current_volume - volume_decrement"
+        }
+    },
+    "lower the volume knob": {
+        "intent": "volume.decrease",
+        "entities": {
+            "volume": "current_volume - volume_decrement"
+        }
+    },
+    "decrease the volume regulator level": {
+        "intent": "volume.decrease",
+        "entities": {
+            "volume": "current_volume - volume_decrement"
+        }
+    },
+    "reduce the volume slider": {
+        "intent": "volume.decrease",
+        "entities": {
+            "volume": "current_volume - volume_decrement"
+        }
+    },
+    "lower the audio level": {
+        "intent": "volume.decrease",
+        "entities": {
+            "volume": "current_volume - volume_decrement"
+        }
+    },
+    "lower the volume level": {
+        "intent": "volume.decrease",
+        "entities": {
+            "volume": "current_volume - volume_decrement"
+        }
+    },
+    "quiet down the volume adjuster": {
+        "intent": "volume.decrease",
+        "entities": {
+            "volume": "current_volume - volume_decrement"
+        }
+    },
+    "lower the volume output level": {
+        "intent": "volume.decrease",
+        "entities": {
+            "volume": "current_volume - volume_decrement"
+        }
+    },
+    "make the volume knob lower": {
+        "intent": "volume.decrease",
+        "entities": {
+            "volume": "current_volume - volume_decrement"
+        }
+    },
+    "decrease the sound output": {
+        "intent": "volume.decrease",
+        "entities": {
+            "volume": "current_volume - volume_decrement"
+        }
+    },
+    "lower the volume": {
+        "intent": "volume.decrease",
+        "entities": {
+            "volume": "current_volume - volume_decrement"
+        }
+    },
+    "turn down the volume": {
+        "intent": "volume.decrease",
+        "entities": {
+            "volume": "current_volume - volume_decrement"
+        }
+    },
+    "decrease the sound level": {
+        "intent": "volume.decrease",
+        "entities": {
+            "volume": "current_volume - volume_decrement"
+        }
+    },
+    "make it quieter": {
+        "intent": "volume.decrease",
+        "entities": {
+            "volume": "current_volume - volume_decrement"
+        }
+    },
+    "lower the sound level": {
+        "intent": "volume.decrease",
+        "entities": {
+            "volume": "current_volume - volume_decrement"
+        }
+    },
+    "make the volume regulator lower": {
+        "intent": "volume.decrease",
+        "entities": {
+            "volume": "current_volume - volume_decrement"
+        }
+    },
+    "make it less blaring": {
+        "intent": "volume.decrease",
+        "entities": {
+            "volume": "current_volume - volume_decrement"
+        }
+    },
+    "reduce the sound output level": {
+        "intent": "volume.decrease",
+        "entities": {
+            "volume": "current_volume - volume_decrement"
+        }
+    },
+    "make the volume adjuster lower": {
+        "intent": "volume.decrease",
+        "entities": {
+            "volume": "current_volume - volume_decrement"
+        }
+    },
+    "make the volume button quieter": {
+        "intent": "volume.decrease",
+        "entities": {
+            "volume": "current_volume - volume_decrement"
+        }
+    },
+    "tone down the sound intensity": {
+        "intent": "volume.decrease",
+        "entities": {
+            "volume": "current_volume - volume_decrement"
+        }
+    },
+    "bring down the volume setting": {
+        "intent": "volume.decrease",
+        "entities": {
+            "volume": "current_volume - volume_decrement"
+        }
+    },
+    "soften the volume regulator": {
+        "intent": "volume.decrease",
+        "entities": {
+            "volume": "current_volume - volume_decrement"
+        }
+    },
+    "turn down the sound level": {
+        "intent": "volume.decrease",
+        "entities": {
+            "volume": "current_volume - volume_decrement"
+        }
+    },
+    "decrease the audio": {
+        "intent": "volume.decrease",
+        "entities": {
+            "volume": "current_volume - volume_decrement"
+        }
+    },
+    "reduce the volume level": {
+        "intent": "volume.decrease",
+        "entities": {
+            "volume": "current_volume - volume_decrement"
+        }
+    },
+    "make the volume adjuster quieter": {
+        "intent": "volume.decrease",
+        "entities": {
+            "volume": "current_volume - volume_decrement"
+        }
+    },
+    "lower the sound intensity level": {
+        "intent": "volume.decrease",
+        "entities": {
+            "volume": "current_volume - volume_decrement"
+        }
+    },
+    "decrease the volume setting level": {
+        "intent": "volume.decrease",
+        "entities": {
+            "volume": "current_volume - volume_decrement"
+        }
+    },
+    "bring down the sound intensity": {
+        "intent": "volume.decrease",
+        "entities": {
+            "volume": "current_volume - volume_decrement"
+        }
+    },
+    "lower the volume setting": {
+        "intent": "volume.decrease",
+        "entities": {
+            "volume": "current_volume - volume_decrement"
+        }
+    },
+    "tone down the audio": {
+        "intent": "volume.decrease",
+        "entities": {
+            "volume": "current_volume - volume_decrement"
+        }
+    },
+    "quiet down the volume control": {
+        "intent": "volume.decrease",
+        "entities": {
+            "volume": "current_volume - volume_decrement"
+        }
+    },
+    "quiet down the sound output": {
+        "intent": "volume.decrease",
+        "entities": {
+            "volume": "current_volume - volume_decrement"
+        }
+    },
+    "soften the volume": {
+        "intent": "volume.decrease",
+        "entities": {
+            "volume": "current_volume - volume_decrement"
+        }
+    },
+    "decrease the volume control level": {
+        "intent": "volume.decrease",
+        "entities": {
+            "volume": "current_volume - volume_decrement"
+        }
+    },
+    "soften the sound": {
+        "intent": "volume.decrease",
+        "entities": {
+            "volume": "current_volume - volume_decrement"
+        }
+    },
+    "make it less noisy": {
+        "intent": "volume.decrease",
+        "entities": {
+            "volume": "current_volume - volume_decrement"
+        }
+    },
+    "make the sound output quieter": {
+        "intent": "volume.decrease",
+        "entities": {
+            "volume": "current_volume - volume_decrement"
+        }
+    },
+    "quiet down the sound intensity": {
+        "intent": "volume.decrease",
+        "entities": {
+            "volume": "current_volume - volume_decrement"
+        }
+    },
+    "lower the audio": {
+        "intent": "volume.decrease",
+        "entities": {
+            "volume": "current_volume - volume_decrement"
+        }
+    },
+    "decrease the volume knob level": {
+        "intent": "volume.decrease",
+        "entities": {
+            "volume": "current_volume - volume_decrement"
+        }
+    },
+    "make the volume output lower": {
+        "intent": "volume.decrease",
+        "entities": {
+            "volume": "current_volume - volume_decrement"
+        }
+    },
+    "reduce the volume output": {
+        "intent": "volume.decrease",
+        "entities": {
+            "volume": "current_volume - volume_decrement"
+        }
+    },
+    "make it less boisterous": {
+        "intent": "volume.decrease",
+        "entities": {
+            "volume": "current_volume - volume_decrement"
+        }
+    },
+    "make the sound output lower": {
+        "intent": "volume.decrease",
+        "entities": {
+            "volume": "current_volume - volume_decrement"
+        }
+    },
+    "make the sound intensity lower": {
+        "intent": "volume.decrease",
+        "entities": {
+            "volume": "current_volume - volume_decrement"
+        }
+    },
+    "tone down the volume": {
+        "intent": "volume.decrease",
+        "entities": {
+            "volume": "current_volume - volume_decrement"
+        }
+    },
+    "reduce the sound intensity level": {
+        "intent": "volume.decrease",
+        "entities": {
+            "volume": "current_volume - volume_decrement"
+        }
+    },
+    "make the audio quieter": {
+        "intent": "volume.decrease",
+        "entities": {
+            "volume": "current_volume - volume_decrement"
+        }
+    },
+    "quiet down the volume": {
+        "intent": "volume.decrease",
+        "entities": {
+            "volume": "current_volume - volume_decrement"
+        }
+    },
+    "bring down the volume regulator": {
+        "intent": "volume.decrease",
+        "entities": {
+            "volume": "current_volume - volume_decrement"
+        }
+    },
+    "bring down the sound level": {
+        "intent": "volume.decrease",
+        "entities": {
+            "volume": "current_volume - volume_decrement"
+        }
+    },
+    "tone down the volume output": {
+        "intent": "volume.decrease",
+        "entities": {
+            "volume": "current_volume - volume_decrement"
+        }
+    },
+    "reduce the sound level": {
+        "intent": "volume.decrease",
+        "entities": {
+            "volume": "current_volume - volume_decrement"
+        }
+    },
+    "silence the volume": {
+        "intent": "volume.decrease",
+        "entities": {
+            "volume": "current_volume - volume_decrement"
+        }
+    },
+    "make the sound intensity quieter": {
+        "intent": "volume.decrease",
+        "entities": {
+            "volume": "current_volume - volume_decrement"
+        }
+    },
+    "make the sound quieter": {
+        "intent": "volume.decrease",
+        "entities": {
+            "volume": "current_volume - volume_decrement"
+        }
+    },
+    "turn down the volume level": {
+        "intent": "volume.decrease",
+        "entities": {
+            "volume": "current_volume - volume_decrement"
+        }
+    }
+}
