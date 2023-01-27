@@ -51,5 +51,6 @@ make the volume __
 set the volume to __ in the speaker
 set the volume to __ on the audio device
 change the volume to __
-turn the volume up/down to __
+turn the volume down to __
+turn the volume up to __
 set the volume to __ via the speaker
