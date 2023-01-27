@@ -22,12 +22,12 @@
     //     }
     // },
     .
-    "mute or decrease volume to min": {
-        "intent": "volume.mute",
-        "entities": {
-            "volume": "0"
-        }
-    },
+    // "mute or decrease volume to min": {
+    //     "intent": "volume.mute",
+    //     "entities": {
+    //         "volume": "0"
+    //     }
+    // },
 
     ............................................
     // "set volume to 80": {
@@ -50,7 +50,7 @@
     // },
     ............................................
     "unmute": {
-        "intent": "volume.unmute",
+        "intent": "volume.value",
         "entities": {
             "volume": "last_volume"
         }

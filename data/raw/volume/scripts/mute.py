@@ -1,8 +1,8 @@
 # Description: This script converts the text file to json file
 
 import json
-inp_file = 'data/raw/volume/decrease.txt'
-out_file_1 = 'data/volume-control/decrease_volume.json'
+inp_file = 'data/raw/volume/mute.txt'
+out_file_1 = 'data/volume-control/mute.json'
 
 with open(inp_file, 'r') as f:
     lines = f.readlines()
@@ -15,7 +15,7 @@ for line in lines:
         value = {
             "intent": "volume.decrease",
             "entities": {
-                "volume": "current_volume - volume_decrement"
+                "volume": "0"
             }
         }
 

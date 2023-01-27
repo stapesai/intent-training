@@ -1,0 +1,848 @@
+{
+    "shut up": {
+        "intent": "volume.decrease",
+        "entities": {
+            "volume": "0"
+        }
+    },
+    "set the volume to off audio output": {
+        "intent": "volume.decrease",
+        "entities": {
+            "volume": "0"
+        }
+    },
+    "turn off the speaker": {
+        "intent": "volume.decrease",
+        "entities": {
+            "volume": "0"
+        }
+    },
+    "turn off the sound of jarvis\u2019s device": {
+        "intent": "volume.decrease",
+        "entities": {
+            "volume": "0"
+        }
+    },
+    "set the volume to silence output": {
+        "intent": "volume.decrease",
+        "entities": {
+            "volume": "0"
+        }
+    },
+    "set the volume to no output level": {
+        "intent": "volume.decrease",
+        "entities": {
+            "volume": "0"
+        }
+    },
+    "lower the volume of the microphone": {
+        "intent": "volume.decrease",
+        "entities": {
+            "volume": "0"
+        }
+    },
+    "set the volume to no audio": {
+        "intent": "volume.decrease",
+        "entities": {
+            "volume": "0"
+        }
+    },
+    "quiet": {
+        "intent": "volume.decrease",
+        "entities": {
+            "volume": "0"
+        }
+    },
+    "muffle the audio of jarvis\u2019s device": {
+        "intent": "volume.decrease",
+        "entities": {
+            "volume": "0"
+        }
+    },
+    "decrease the volume to zero": {
+        "intent": "volume.decrease",
+        "entities": {
+            "volume": "0"
+        }
+    },
+    "set the volume to minimum sound output level": {
+        "intent": "volume.decrease",
+        "entities": {
+            "volume": "0"
+        }
+    },
+    "lower the volume to zero": {
+        "intent": "volume.decrease",
+        "entities": {
+            "volume": "0"
+        }
+    },
+    "set the volume to no sound audio output level": {
+        "intent": "volume.decrease",
+        "entities": {
+            "volume": "0"
+        }
+    },
+    "set the volume to minimum output": {
+        "intent": "volume.decrease",
+        "entities": {
+            "volume": "0"
+        }
+    },
+    "halt the audio": {
+        "intent": "volume.decrease",
+        "entities": {
+            "volume": "0"
+        }
+    },
+    "set the volume to silence sound": {
+        "intent": "volume.decrease",
+        "entities": {
+            "volume": "0"
+        }
+    },
+    "set the volume to silence audio output level": {
+        "intent": "volume.decrease",
+        "entities": {
+            "volume": "0"
+        }
+    },
+    "mute the speaker": {
+        "intent": "volume.decrease",
+        "entities": {
+            "volume": "0"
+        }
+    },
+    "set the volume to off level": {
+        "intent": "volume.decrease",
+        "entities": {
+            "volume": "0"
+        }
+    },
+    "mute the microphone": {
+        "intent": "volume.decrease",
+        "entities": {
+            "volume": "0"
+        }
+    },
+    "reduce the volume to zero": {
+        "intent": "volume.decrease",
+        "entities": {
+            "volume": "0"
+        }
+    },
+    "set the volume to zero sound output level": {
+        "intent": "volume.decrease",
+        "entities": {
+            "volume": "0"
+        }
+    },
+    "dampen the audio of jarvis\u2019s device": {
+        "intent": "volume.decrease",
+        "entities": {
+            "volume": "0"
+        }
+    },
+    "turn off the volume": {
+        "intent": "volume.decrease",
+        "entities": {
+            "volume": "0"
+        }
+    },
+    "turn off the microphone of jarvis": {
+        "intent": "volume.decrease",
+        "entities": {
+            "volume": "0"
+        }
+    },
+    "set the volume to no sound output level": {
+        "intent": "volume.decrease",
+        "entities": {
+            "volume": "0"
+        }
+    },
+    "stop the noise of jarvis\u2019s device": {
+        "intent": "volume.decrease",
+        "entities": {
+            "volume": "0"
+        }
+    },
+    "stop the voice of jarvis": {
+        "intent": "volume.decrease",
+        "entities": {
+            "volume": "0"
+        }
+    },
+    "lower the volume": {
+        "intent": "volume.decrease",
+        "entities": {
+            "volume": "0"
+        }
+    },
+    "set the volume to off audio": {
+        "intent": "volume.decrease",
+        "entities": {
+            "volume": "0"
+        }
+    },
+    "set the volume to zero": {
+        "intent": "volume.decrease",
+        "entities": {
+            "volume": "0"
+        }
+    },
+    "set the volume to no sound": {
+        "intent": "volume.decrease",
+        "entities": {
+            "volume": "0"
+        }
+    },
+    "set the volume to silent level": {
+        "intent": "volume.decrease",
+        "entities": {
+            "volume": "0"
+        }
+    },
+    "quiet jarvis": {
+        "intent": "volume.decrease",
+        "entities": {
+            "volume": "0"
+        }
+    },
+    "silence the voice of jarvis": {
+        "intent": "volume.decrease",
+        "entities": {
+            "volume": "0"
+        }
+    },
+    "turn off audio": {
+        "intent": "volume.decrease",
+        "entities": {
+            "volume": "0"
+        }
+    },
+    "keep quiet": {
+        "intent": "volume.decrease",
+        "entities": {
+            "volume": "0"
+        }
+    },
+    "set the volume to no audio sound output": {
+        "intent": "volume.decrease",
+        "entities": {
+            "volume": "0"
+        }
+    },
+    "set the volume to zero output": {
+        "intent": "volume.decrease",
+        "entities": {
+            "volume": "0"
+        }
+    },
+    "set the volume to zero sound output": {
+        "intent": "volume.decrease",
+        "entities": {
+            "volume": "0"
+        }
+    },
+    "bring the volume down to zero": {
+        "intent": "volume.decrease",
+        "entities": {
+            "volume": "0"
+        }
+    },
+    "stop the noise of jarvis": {
+        "intent": "volume.decrease",
+        "entities": {
+            "volume": "0"
+        }
+    },
+    "hush the voice of jarvis": {
+        "intent": "volume.decrease",
+        "entities": {
+            "volume": "0"
+        }
+    },
+    "set the volume to zero sound": {
+        "intent": "volume.decrease",
+        "entities": {
+            "volume": "0"
+        }
+    },
+    "set the volume to no volume level": {
+        "intent": "volume.decrease",
+        "entities": {
+            "volume": "0"
+        }
+    },
+    "set the volume to silence audio": {
+        "intent": "volume.decrease",
+        "entities": {
+            "volume": "0"
+        }
+    },
+    "turn down the volume of jarvis": {
+        "intent": "volume.decrease",
+        "entities": {
+            "volume": "0"
+        }
+    },
+    "turn down the volume of jarvis\u2019s device": {
+        "intent": "volume.decrease",
+        "entities": {
+            "volume": "0"
+        }
+    },
+    "halt the audio of jarvis": {
+        "intent": "volume.decrease",
+        "entities": {
+            "volume": "0"
+        }
+    },
+    "turn off the sound of jarvis": {
+        "intent": "volume.decrease",
+        "entities": {
+            "volume": "0"
+        }
+    },
+    "silence the voice": {
+        "intent": "volume.decrease",
+        "entities": {
+            "volume": "0"
+        }
+    },
+    "set the volume to no volume": {
+        "intent": "volume.decrease",
+        "entities": {
+            "volume": "0"
+        }
+    },
+    "hush the voice of jarvis\u2019s device": {
+        "intent": "volume.decrease",
+        "entities": {
+            "volume": "0"
+        }
+    },
+    "mute the microphone of jarvis": {
+        "intent": "volume.decrease",
+        "entities": {
+            "volume": "0"
+        }
+    },
+    "mute the output of jarvis": {
+        "intent": "volume.decrease",
+        "entities": {
+            "volume": "0"
+        }
+    },
+    "set the volume to minimum audio": {
+        "intent": "volume.decrease",
+        "entities": {
+            "volume": "0"
+        }
+    },
+    "stop the voice of jarvis\u2019s device": {
+        "intent": "volume.decrease",
+        "entities": {
+            "volume": "0"
+        }
+    },
+    "quieten the sound of jarvis\u2019s device": {
+        "intent": "volume.decrease",
+        "entities": {
+            "volume": "0"
+        }
+    },
+    "turn off speech": {
+        "intent": "volume.decrease",
+        "entities": {
+            "volume": "0"
+        }
+    },
+    "set the volume to off output level": {
+        "intent": "volume.decrease",
+        "entities": {
+            "volume": "0"
+        }
+    },
+    "set the volume to minimum level": {
+        "intent": "volume.decrease",
+        "entities": {
+            "volume": "0"
+        }
+    },
+    "set the volume to zero output level": {
+        "intent": "volume.decrease",
+        "entities": {
+            "volume": "0"
+        }
+    },
+    "lower the volume of the microphone of jarvis": {
+        "intent": "volume.decrease",
+        "entities": {
+            "volume": "0"
+        }
+    },
+    "hush the voice": {
+        "intent": "volume.decrease",
+        "entities": {
+            "volume": "0"
+        }
+    },
+    "lower the volume of jarvis": {
+        "intent": "volume.decrease",
+        "entities": {
+            "volume": "0"
+        }
+    },
+    "mute the voice of jarvis\u2019s device": {
+        "intent": "volume.decrease",
+        "entities": {
+            "volume": "0"
+        }
+    },
+    "shut up jarvis\u2019s device": {
+        "intent": "volume.decrease",
+        "entities": {
+            "volume": "0"
+        }
+    },
+    "stop the audio of jarvis": {
+        "intent": "volume.decrease",
+        "entities": {
+            "volume": "0"
+        }
+    },
+    "set the volume to minimum audio output": {
+        "intent": "volume.decrease",
+        "entities": {
+            "volume": "0"
+        }
+    },
+    "silence jarvis\u2019s microphone": {
+        "intent": "volume.decrease",
+        "entities": {
+            "volume": "0"
+        }
+    },
+    "hush jarvis": {
+        "intent": "volume.decrease",
+        "entities": {
+            "volume": "0"
+        }
+    },
+    "turn off the speaker of jarvis\u2019s device": {
+        "intent": "volume.decrease",
+        "entities": {
+            "volume": "0"
+        }
+    },
+    "set the volume to off audio output level": {
+        "intent": "volume.decrease",
+        "entities": {
+            "volume": "0"
+        }
+    },
+    "set the volume to off output": {
+        "intent": "volume.decrease",
+        "entities": {
+            "volume": "0"
+        }
+    },
+    "muffle the audio": {
+        "intent": "volume.decrease",
+        "entities": {
+            "volume": "0"
+        }
+    },
+    "mute the speaker of jarvis": {
+        "intent": "volume.decrease",
+        "entities": {
+            "volume": "0"
+        }
+    },
+    "set the volume to off": {
+        "intent": "volume.decrease",
+        "entities": {
+            "volume": "0"
+        }
+    },
+    "turn off the sound": {
+        "intent": "volume.decrease",
+        "entities": {
+            "volume": "0"
+        }
+    },
+    "set the volume to silence": {
+        "intent": "volume.decrease",
+        "entities": {
+            "volume": "0"
+        }
+    },
+    "set the volume to off sound output level": {
+        "intent": "volume.decrease",
+        "entities": {
+            "volume": "0"
+        }
+    },
+    "lower the volume of the microphone of jarvis\u2019s device": {
+        "intent": "volume.decrease",
+        "entities": {
+            "volume": "0"
+        }
+    },
+    "turn off the microphone": {
+        "intent": "volume.decrease",
+        "entities": {
+            "volume": "0"
+        }
+    },
+    "stop the noise": {
+        "intent": "volume.decrease",
+        "entities": {
+            "volume": "0"
+        }
+    },
+    "set the volume to silence audio output": {
+        "intent": "volume.decrease",
+        "entities": {
+            "volume": "0"
+        }
+    },
+    "set the volume to silence sound output level": {
+        "intent": "volume.decrease",
+        "entities": {
+            "volume": "0"
+        }
+    },
+    "set the volume to zero level": {
+        "intent": "volume.decrease",
+        "entities": {
+            "volume": "0"
+        }
+    },
+    "halt the audio of jarvis\u2019s device": {
+        "intent": "volume.decrease",
+        "entities": {
+            "volume": "0"
+        }
+    },
+    "mute the output": {
+        "intent": "volume.decrease",
+        "entities": {
+            "volume": "0"
+        }
+    },
+    "silence the voice of jarvis\u2019s device": {
+        "intent": "volume.decrease",
+        "entities": {
+            "volume": "0"
+        }
+    },
+    "minimize the volume to zero": {
+        "intent": "volume.decrease",
+        "entities": {
+            "volume": "0"
+        }
+    },
+    "stop the audio": {
+        "intent": "volume.decrease",
+        "entities": {
+            "volume": "0"
+        }
+    },
+    "dampen the audio": {
+        "intent": "volume.decrease",
+        "entities": {
+            "volume": "0"
+        }
+    },
+    "turn off speech of jarvis": {
+        "intent": "volume.decrease",
+        "entities": {
+            "volume": "0"
+        }
+    },
+    "quieten the sound": {
+        "intent": "volume.decrease",
+        "entities": {
+            "volume": "0"
+        }
+    },
+    "mute the voice": {
+        "intent": "volume.decrease",
+        "entities": {
+            "volume": "0"
+        }
+    },
+    "lower the volume of jarvis\u2019s device": {
+        "intent": "volume.decrease",
+        "entities": {
+            "volume": "0"
+        }
+    },
+    "shut up jarvis": {
+        "intent": "volume.decrease",
+        "entities": {
+            "volume": "0"
+        }
+    },
+    "set the volume to silence level": {
+        "intent": "volume.decrease",
+        "entities": {
+            "volume": "0"
+        }
+    },
+    "keep quiet jarvis\u2019s device": {
+        "intent": "volume.decrease",
+        "entities": {
+            "volume": "0"
+        }
+    },
+    "set the volume to minimum audio output level": {
+        "intent": "volume.decrease",
+        "entities": {
+            "volume": "0"
+        }
+    },
+    "set the volume to no volume output level": {
+        "intent": "volume.decrease",
+        "entities": {
+            "volume": "0"
+        }
+    },
+    "set the volume to zero audio output level": {
+        "intent": "volume.decrease",
+        "entities": {
+            "volume": "0"
+        }
+    },
+    "set the volume to no audio output level": {
+        "intent": "volume.decrease",
+        "entities": {
+            "volume": "0"
+        }
+    },
+    "set the volume to no sound audio output": {
+        "intent": "volume.decrease",
+        "entities": {
+            "volume": "0"
+        }
+    },
+    "set the volume to no audio level": {
+        "intent": "volume.decrease",
+        "entities": {
+            "volume": "0"
+        }
+    },
+    "mute the microphone of jarvis\u2019s device": {
+        "intent": "volume.decrease",
+        "entities": {
+            "volume": "0"
+        }
+    },
+    "mute the speaker of jarvis\u2019s device": {
+        "intent": "volume.decrease",
+        "entities": {
+            "volume": "0"
+        }
+    },
+    "set the volume to off sound": {
+        "intent": "volume.decrease",
+        "entities": {
+            "volume": "0"
+        }
+    },
+    "hush jarvis\u2019s microphone": {
+        "intent": "volume.decrease",
+        "entities": {
+            "volume": "0"
+        }
+    },
+    "set the volume to minimum output level": {
+        "intent": "volume.decrease",
+        "entities": {
+            "volume": "0"
+        }
+    },
+    "quieten the sound of jarvis": {
+        "intent": "volume.decrease",
+        "entities": {
+            "volume": "0"
+        }
+    },
+    "set the volume to no sound output": {
+        "intent": "volume.decrease",
+        "entities": {
+            "volume": "0"
+        }
+    },
+    "set the volume to zero audio": {
+        "intent": "volume.decrease",
+        "entities": {
+            "volume": "0"
+        }
+    },
+    "set the volume to silence output level": {
+        "intent": "volume.decrease",
+        "entities": {
+            "volume": "0"
+        }
+    },
+    "set the volume to no audio output": {
+        "intent": "volume.decrease",
+        "entities": {
+            "volume": "0"
+        }
+    },
+    "silence": {
+        "intent": "volume.decrease",
+        "entities": {
+            "volume": "0"
+        }
+    },
+    "stop the voice": {
+        "intent": "volume.decrease",
+        "entities": {
+            "volume": "0"
+        }
+    },
+    "set the volume to no audio sound output level": {
+        "intent": "volume.decrease",
+        "entities": {
+            "volume": "0"
+        }
+    },
+    "silence jarvis": {
+        "intent": "volume.decrease",
+        "entities": {
+            "volume": "0"
+        }
+    },
+    "set the volume to no sound level": {
+        "intent": "volume.decrease",
+        "entities": {
+            "volume": "0"
+        }
+    },
+    "set the volume to no volume output": {
+        "intent": "volume.decrease",
+        "entities": {
+            "volume": "0"
+        }
+    },
+    "turn off the microphone of jarvis\u2019s device": {
+        "intent": "volume.decrease",
+        "entities": {
+            "volume": "0"
+        }
+    },
+    "set the volume to mute level": {
+        "intent": "volume.decrease",
+        "entities": {
+            "volume": "0"
+        }
+    },
+    "turn off speech of jarvis\u2019s device": {
+        "intent": "volume.decrease",
+        "entities": {
+            "volume": "0"
+        }
+    },
+    "set the volume to silence sound output": {
+        "intent": "volume.decrease",
+        "entities": {
+            "volume": "0"
+        }
+    },
+    "turn down the volume": {
+        "intent": "volume.decrease",
+        "entities": {
+            "volume": "0"
+        }
+    },
+    "dampen the audio of jarvis": {
+        "intent": "volume.decrease",
+        "entities": {
+            "volume": "0"
+        }
+    },
+    "turn off the speaker of jarvis": {
+        "intent": "volume.decrease",
+        "entities": {
+            "volume": "0"
+        }
+    },
+    "quiet jarvis\u2019s microphone": {
+        "intent": "volume.decrease",
+        "entities": {
+            "volume": "0"
+        }
+    },
+    "set the volume to zero audio output": {
+        "intent": "volume.decrease",
+        "entities": {
+            "volume": "0"
+        }
+    },
+    "mute the volume": {
+        "intent": "volume.decrease",
+        "entities": {
+            "volume": "0"
+        }
+    },
+    "shush": {
+        "intent": "volume.decrease",
+        "entities": {
+            "volume": "0"
+        }
+    },
+    "set the volume to minimum": {
+        "intent": "volume.decrease",
+        "entities": {
+            "volume": "0"
+        }
+    },
+    "muffle the audio of jarvis": {
+        "intent": "volume.decrease",
+        "entities": {
+            "volume": "0"
+        }
+    },
+    "stop talking": {
+        "intent": "volume.decrease",
+        "entities": {
+            "volume": "0"
+        }
+    },
+    "keep quiet jarvis": {
+        "intent": "volume.decrease",
+        "entities": {
+            "volume": "0"
+        }
+    },
+    "mute the voice of jarvis": {
+        "intent": "volume.decrease",
+        "entities": {
+            "volume": "0"
+        }
+    },
+    "set the volume to no output": {
+        "intent": "volume.decrease",
+        "entities": {
+            "volume": "0"
+        }
+    },
+    "set the volume to minimum sound": {
+        "intent": "volume.decrease",
+        "entities": {
+            "volume": "0"
+        }
+    },
+    "set the volume to minimum sound output": {
+        "intent": "volume.decrease",
+        "entities": {
+            "volume": "0"
+        }
+    }
+}
