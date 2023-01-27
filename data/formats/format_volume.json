@@ -1,0 +1,58 @@
+{
+    // "increase volume": {
+    //     "intent": "volume.increase",
+    //     "entities": {
+    //         "volume": "volume_increment"
+    //     }
+    // },
+    .
+    // "increase volume to max": {
+    //     "intent": "volume.vlaue",
+    //     "entities": {
+    //         "volume": "volume_max"
+    //     }
+    // },
+
+    *SET VOLUME TO FULL*,
+    .
+    // "decrease volume": {
+    //     "intent": "volume.decrease",
+    //     "entities": {
+    //         "volume": "volume_decrement"
+    //     }
+    // },
+    .
+    "mute or decrease volume to min": {
+        "intent": "volume.mute",
+        "entities": {
+            "volume": "0"
+        }
+    },
+
+    ............................................
+    // "set volume to 80": {
+    //     "intent": "volume.set",
+    //     "entities": {
+    //         "volume": "80"
+    //     }
+    // },
+    // "increase volume to 40": {
+    //     "intent": "volume.set",
+    //     "entities": {
+    //         "volume": "40"
+    //     }
+    // },
+    // "decrease volume to 90": {
+    //     "intent": "volume.set",
+    //     "entities": {
+    //         "volume": "90"
+    //     }
+    // },
+    ............................................
+    "unmute": {
+        "intent": "volume.unmute",
+        "entities": {
+            "volume": "last_volume"
+        }
+    }
+}

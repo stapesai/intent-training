@@ -1,0 +1,800 @@
+{
+    "up the volume intensity to maximum": {
+        "intent": "volume.value",
+        "entities": {
+            "volume": "volume_max"
+        }
+    },
+    "make it as distinct as it can go": {
+        "intent": "volume.value",
+        "entities": {
+            "volume": "volume_max"
+        }
+    },
+    "raise the audio level to the highest setting": {
+        "intent": "volume.value",
+        "entities": {
+            "volume": "volume_max"
+        }
+    },
+    "make the voice as distinct as it can get": {
+        "intent": "volume.value",
+        "entities": {
+            "volume": "volume_max"
+        }
+    },
+    "raise the volume output to the loudest setting": {
+        "intent": "volume.value",
+        "entities": {
+            "volume": "volume_max"
+        }
+    },
+    "louden the audio level to maximum": {
+        "intent": "volume.value",
+        "entities": {
+            "volume": "volume_max"
+        }
+    },
+    "make it as audible as it can be raised": {
+        "intent": "volume.value",
+        "entities": {
+            "volume": "volume_max"
+        }
+    },
+    "make it as audible as it can be turned up to": {
+        "intent": "volume.value",
+        "entities": {
+            "volume": "volume_max"
+        }
+    },
+    "amplify the voice output to the loudest setting": {
+        "intent": "volume.value",
+        "entities": {
+            "volume": "volume_max"
+        }
+    },
+    "increase the audio power to the loudest setting": {
+        "intent": "volume.value",
+        "entities": {
+            "volume": "volume_max"
+        }
+    },
+    "raise the volume control to the maximum setting": {
+        "intent": "volume.value",
+        "entities": {
+            "volume": "volume_max"
+        }
+    },
+    "boost the voice intensity to the maximum setting": {
+        "intent": "volume.value",
+        "entities": {
+            "volume": "volume_max"
+        }
+    },
+    "make the volume as loud as it can be turned up to": {
+        "intent": "volume.value",
+        "entities": {
+            "volume": "volume_max"
+        }
+    },
+    "raise the volume control to maximum": {
+        "intent": "volume.value",
+        "entities": {
+            "volume": "volume_max"
+        }
+    },
+    "increase the audio power to maximum": {
+        "intent": "volume.value",
+        "entities": {
+            "volume": "volume_max"
+        }
+    },
+    "make the sound as loud as it can be raised to": {
+        "intent": "volume.value",
+        "entities": {
+            "volume": "volume_max"
+        }
+    },
+    "louden the audio level to the loudest setting": {
+        "intent": "volume.value",
+        "entities": {
+            "volume": "volume_max"
+        }
+    },
+    "increase the volume power to the maximum level": {
+        "intent": "volume.value",
+        "entities": {
+            "volume": "volume_max"
+        }
+    },
+    "boost the audio intensity to the maximum setting": {
+        "intent": "volume.value",
+        "entities": {
+            "volume": "volume_max"
+        }
+    },
+    "increase the sound strength to the maximum setting": {
+        "intent": "volume.value",
+        "entities": {
+            "volume": "volume_max"
+        }
+    },
+    "make the sound as loud as it can be raised to the": {
+        "intent": "volume.value",
+        "entities": {
+            "volume": "volume_max"
+        }
+    },
+    "increase the audio strength to maximum": {
+        "intent": "volume.value",
+        "entities": {
+            "volume": "volume_max"
+        }
+    },
+    "amplify the audio level to the maximum level": {
+        "intent": "volume.value",
+        "entities": {
+            "volume": "volume_max"
+        }
+    },
+    "up the volume strength to the maximum setting": {
+        "intent": "volume.value",
+        "entities": {
+            "volume": "volume_max"
+        }
+    },
+    "boost the audio intensity to maximum": {
+        "intent": "volume.value",
+        "entities": {
+            "volume": "volume_max"
+        }
+    },
+    "make the volume as loud as it can go": {
+        "intent": "volume.value",
+        "entities": {
+            "volume": "volume_max"
+        }
+    },
+    "raise the volume control to the loudest setting": {
+        "intent": "volume.value",
+        "entities": {
+            "volume": "volume_max"
+        }
+    },
+    "amplify the voice output to maximum": {
+        "intent": "volume.value",
+        "entities": {
+            "volume": "volume_max"
+        }
+    },
+    "raise the audio setting to the maximum level": {
+        "intent": "volume.value",
+        "entities": {
+            "volume": "volume_max"
+        }
+    },
+    "make it as distinct as it can get": {
+        "intent": "volume.value",
+        "entities": {
+            "volume": "volume_max"
+        }
+    },
+    "make it as audible as it can get": {
+        "intent": "volume.value",
+        "entities": {
+            "volume": "volume_max"
+        }
+    },
+    "increase the volume power to the highest setting": {
+        "intent": "volume.value",
+        "entities": {
+            "volume": "volume_max"
+        }
+    },
+    "make the voice as clear as it can go": {
+        "intent": "volume.value",
+        "entities": {
+            "volume": "volume_max"
+        }
+    },
+    "increase the audio power to the maximum setting": {
+        "intent": "volume.value",
+        "entities": {
+            "volume": "volume_max"
+        }
+    },
+    "make the sound as loud as it can be turned up": {
+        "intent": "volume.value",
+        "entities": {
+            "volume": "volume_max"
+        }
+    },
+    "make it as distinct as it can be raised": {
+        "intent": "volume.value",
+        "entities": {
+            "volume": "volume_max"
+        }
+    },
+    "raise the audio level to the maximum setting": {
+        "intent": "volume.value",
+        "entities": {
+            "volume": "volume_max"
+        }
+    },
+    "make the voice as clear as possible": {
+        "intent": "volume.value",
+        "entities": {
+            "volume": "volume_max"
+        }
+    },
+    "boost the voice intensity to maximum": {
+        "intent": "volume.value",
+        "entities": {
+            "volume": "volume_max"
+        }
+    },
+    "increase the audio strength to the maximum level": {
+        "intent": "volume.value",
+        "entities": {
+            "volume": "volume_max"
+        }
+    },
+    "louden the audio level to the highest setting": {
+        "intent": "volume.value",
+        "entities": {
+            "volume": "volume_max"
+        }
+    },
+    "make the voice as clear as it can be turned up": {
+        "intent": "volume.value",
+        "entities": {
+            "volume": "volume_max"
+        }
+    },
+    "turn the volume up to the loudest setting": {
+        "intent": "volume.value",
+        "entities": {
+            "volume": "volume_max"
+        }
+    },
+    "turn the volume up to the highest setting": {
+        "intent": "volume.value",
+        "entities": {
+            "volume": "volume_max"
+        }
+    },
+    "make the volume as loud as it can be turned up to the": {
+        "intent": "volume.value",
+        "entities": {
+            "volume": "volume_max"
+        }
+    },
+    "louden the audio output to the maximum level": {
+        "intent": "volume.value",
+        "entities": {
+            "volume": "volume_max"
+        }
+    },
+    "make it as audible as possible": {
+        "intent": "volume.value",
+        "entities": {
+            "volume": "volume_max"
+        }
+    },
+    "make the voice as distinct as it can go": {
+        "intent": "volume.value",
+        "entities": {
+            "volume": "volume_max"
+        }
+    },
+    "make the volume as loud as it can be": {
+        "intent": "volume.value",
+        "entities": {
+            "volume": "volume_max"
+        }
+    },
+    "increase the audio strength to the maximum setting": {
+        "intent": "volume.value",
+        "entities": {
+            "volume": "volume_max"
+        }
+    },
+    "raise the volume control to the maximum level": {
+        "intent": "volume.value",
+        "entities": {
+            "volume": "volume_max"
+        }
+    },
+    "amplify the audio level to the highest setting": {
+        "intent": "volume.value",
+        "entities": {
+            "volume": "volume_max"
+        }
+    },
+    "make it as audible as it can be": {
+        "intent": "volume.value",
+        "entities": {
+            "volume": "volume_max"
+        }
+    },
+    "boost the voice intensity to the loudest setting": {
+        "intent": "volume.value",
+        "entities": {
+            "volume": "volume_max"
+        }
+    },
+    "raise the audio level to the loudest setting": {
+        "intent": "volume.value",
+        "entities": {
+            "volume": "volume_max"
+        }
+    },
+    "increase the volume power to maximum": {
+        "intent": "volume.value",
+        "entities": {
+            "volume": "volume_max"
+        }
+    },
+    "increase the volume power to the maximum setting": {
+        "intent": "volume.value",
+        "entities": {
+            "volume": "volume_max"
+        }
+    },
+    "raise the volume output to the highest setting": {
+        "intent": "volume.value",
+        "entities": {
+            "volume": "volume_max"
+        }
+    },
+    "make the sound as loud as possible": {
+        "intent": "volume.value",
+        "entities": {
+            "volume": "volume_max"
+        }
+    },
+    "raise the audio setting to the maximum setting": {
+        "intent": "volume.value",
+        "entities": {
+            "volume": "volume_max"
+        }
+    },
+    "increase the sound strength to the maximum level": {
+        "intent": "volume.value",
+        "entities": {
+            "volume": "volume_max"
+        }
+    },
+    "amplify the voice output to the highest setting": {
+        "intent": "volume.value",
+        "entities": {
+            "volume": "volume_max"
+        }
+    },
+    "make the sound as loud as it can go": {
+        "intent": "volume.value",
+        "entities": {
+            "volume": "volume_max"
+        }
+    },
+    "up the volume intensity to the maximum level": {
+        "intent": "volume.value",
+        "entities": {
+            "volume": "volume_max"
+        }
+    },
+    "boost the voice intensity to the maximum level": {
+        "intent": "volume.value",
+        "entities": {
+            "volume": "volume_max"
+        }
+    },
+    "make the volume as loud as it will go": {
+        "intent": "volume.value",
+        "entities": {
+            "volume": "volume_max"
+        }
+    },
+    "up the volume intensity to the loudest setting": {
+        "intent": "volume.value",
+        "entities": {
+            "volume": "volume_max"
+        }
+    },
+    "make the voice as clear as it can get": {
+        "intent": "volume.value",
+        "entities": {
+            "volume": "volume_max"
+        }
+    },
+    "make the volume as loud as it can be raised to": {
+        "intent": "volume.value",
+        "entities": {
+            "volume": "volume_max"
+        }
+    },
+    "louden the audio output to the loudest setting": {
+        "intent": "volume.value",
+        "entities": {
+            "volume": "volume_max"
+        }
+    },
+    "make the voice as clear as it can be turned up to": {
+        "intent": "volume.value",
+        "entities": {
+            "volume": "volume_max"
+        }
+    },
+    "louden the audio output to maximum": {
+        "intent": "volume.value",
+        "entities": {
+            "volume": "volume_max"
+        }
+    },
+    "raise the audio level to the maximum level": {
+        "intent": "volume.value",
+        "entities": {
+            "volume": "volume_max"
+        }
+    },
+    "make the voice as clear as it can be": {
+        "intent": "volume.value",
+        "entities": {
+            "volume": "volume_max"
+        }
+    },
+    "up the volume intensity to the highest setting": {
+        "intent": "volume.value",
+        "entities": {
+            "volume": "volume_max"
+        }
+    },
+    "boost the audio intensity to the maximum level": {
+        "intent": "volume.value",
+        "entities": {
+            "volume": "volume_max"
+        }
+    },
+    "amplify the audio level to the maximum setting": {
+        "intent": "volume.value",
+        "entities": {
+            "volume": "volume_max"
+        }
+    },
+    "make it as distinct as it can be turned up": {
+        "intent": "volume.value",
+        "entities": {
+            "volume": "volume_max"
+        }
+    },
+    "make the voice as clear as it can be raised": {
+        "intent": "volume.value",
+        "entities": {
+            "volume": "volume_max"
+        }
+    },
+    "boost the voice intensity to the highest setting": {
+        "intent": "volume.value",
+        "entities": {
+            "volume": "volume_max"
+        }
+    },
+    "make the sound as loud as it will go": {
+        "intent": "volume.value",
+        "entities": {
+            "volume": "volume_max"
+        }
+    },
+    "make the voice as distinct as it can be raised": {
+        "intent": "volume.value",
+        "entities": {
+            "volume": "volume_max"
+        }
+    },
+    "make it as audible as it can be turned up": {
+        "intent": "volume.value",
+        "entities": {
+            "volume": "volume_max"
+        }
+    },
+    "make the voice as distinct as it can be": {
+        "intent": "volume.value",
+        "entities": {
+            "volume": "volume_max"
+        }
+    },
+    "make the volume as loud as possible": {
+        "intent": "volume.value",
+        "entities": {
+            "volume": "volume_max"
+        }
+    },
+    "louden the audio level to the maximum level": {
+        "intent": "volume.value",
+        "entities": {
+            "volume": "volume_max"
+        }
+    },
+    "make it as distinct as it can be": {
+        "intent": "volume.value",
+        "entities": {
+            "volume": "volume_max"
+        }
+    },
+    "turn the volume up to the maximum setting": {
+        "intent": "volume.value",
+        "entities": {
+            "volume": "volume_max"
+        }
+    },
+    "boost the audio intensity to the highest setting": {
+        "intent": "volume.value",
+        "entities": {
+            "volume": "volume_max"
+        }
+    },
+    "raise the audio level to maximum": {
+        "intent": "volume.value",
+        "entities": {
+            "volume": "volume_max"
+        }
+    },
+    "amplify the audio level to the loudest setting": {
+        "intent": "volume.value",
+        "entities": {
+            "volume": "volume_max"
+        }
+    },
+    "raise the volume output to maximum": {
+        "intent": "volume.value",
+        "entities": {
+            "volume": "volume_max"
+        }
+    },
+    "louden the audio level to the maximum setting": {
+        "intent": "volume.value",
+        "entities": {
+            "volume": "volume_max"
+        }
+    },
+    "raise the volume output to the maximum level": {
+        "intent": "volume.value",
+        "entities": {
+            "volume": "volume_max"
+        }
+    },
+    "increase the audio power to the maximum level": {
+        "intent": "volume.value",
+        "entities": {
+            "volume": "volume_max"
+        }
+    },
+    "increase the audio power to the highest setting": {
+        "intent": "volume.value",
+        "entities": {
+            "volume": "volume_max"
+        }
+    },
+    "raise the volume control to the highest setting": {
+        "intent": "volume.value",
+        "entities": {
+            "volume": "volume_max"
+        }
+    },
+    "raise the audio setting to maximum": {
+        "intent": "volume.value",
+        "entities": {
+            "volume": "volume_max"
+        }
+    },
+    "make the volume as loud as it can be raised to the": {
+        "intent": "volume.value",
+        "entities": {
+            "volume": "volume_max"
+        }
+    },
+    "increase the sound strength to the highest setting": {
+        "intent": "volume.value",
+        "entities": {
+            "volume": "volume_max"
+        }
+    },
+    "make it as audible as it can go": {
+        "intent": "volume.value",
+        "entities": {
+            "volume": "volume_max"
+        }
+    },
+    "turn the volume up to the maximum level": {
+        "intent": "volume.value",
+        "entities": {
+            "volume": "volume_max"
+        }
+    },
+    "amplify the voice output to the maximum setting": {
+        "intent": "volume.value",
+        "entities": {
+            "volume": "volume_max"
+        }
+    },
+    "make the voice as distinct as it can be raised to": {
+        "intent": "volume.value",
+        "entities": {
+            "volume": "volume_max"
+        }
+    },
+    "increase the sound strength to maximum": {
+        "intent": "volume.value",
+        "entities": {
+            "volume": "volume_max"
+        }
+    },
+    "make the voice as distinct as it can be turned up": {
+        "intent": "volume.value",
+        "entities": {
+            "volume": "volume_max"
+        }
+    },
+    "increase the sound strength to the loudest setting": {
+        "intent": "volume.value",
+        "entities": {
+            "volume": "volume_max"
+        }
+    },
+    "amplify the voice output to the maximum level": {
+        "intent": "volume.value",
+        "entities": {
+            "volume": "volume_max"
+        }
+    },
+    "louden the audio output to the highest setting": {
+        "intent": "volume.value",
+        "entities": {
+            "volume": "volume_max"
+        }
+    },
+    "raise the volume output to the maximum setting": {
+        "intent": "volume.value",
+        "entities": {
+            "volume": "volume_max"
+        }
+    },
+    "make it as distinct as possible": {
+        "intent": "volume.value",
+        "entities": {
+            "volume": "volume_max"
+        }
+    },
+    "up the volume strength to maximum": {
+        "intent": "volume.value",
+        "entities": {
+            "volume": "volume_max"
+        }
+    },
+    "increase the audio strength to the loudest setting": {
+        "intent": "volume.value",
+        "entities": {
+            "volume": "volume_max"
+        }
+    },
+    "make the sound as loud as it can be raised": {
+        "intent": "volume.value",
+        "entities": {
+            "volume": "volume_max"
+        }
+    },
+    "increase the volume power to the loudest setting": {
+        "intent": "volume.value",
+        "entities": {
+            "volume": "volume_max"
+        }
+    },
+    "make the volume as loud as it can be turned up": {
+        "intent": "volume.value",
+        "entities": {
+            "volume": "volume_max"
+        }
+    },
+    "make the voice as distinct as it can be turned up to": {
+        "intent": "volume.value",
+        "entities": {
+            "volume": "volume_max"
+        }
+    },
+    "make the sound as loud as it can get": {
+        "intent": "volume.value",
+        "entities": {
+            "volume": "volume_max"
+        }
+    },
+    "make the sound as loud as it can be turned up to": {
+        "intent": "volume.value",
+        "entities": {
+            "volume": "volume_max"
+        }
+    },
+    "make the sound as loud as it can be turned up to the": {
+        "intent": "volume.value",
+        "entities": {
+            "volume": "volume_max"
+        }
+    },
+    "turn the volume up to the highest level": {
+        "intent": "volume.value",
+        "entities": {
+            "volume": "volume_max"
+        }
+    },
+    "make the volume as loud as it can be raised": {
+        "intent": "volume.value",
+        "entities": {
+            "volume": "volume_max"
+        }
+    },
+    "louden the audio output to the maximum setting": {
+        "intent": "volume.value",
+        "entities": {
+            "volume": "volume_max"
+        }
+    },
+    "raise the audio setting to the loudest setting": {
+        "intent": "volume.value",
+        "entities": {
+            "volume": "volume_max"
+        }
+    },
+    "make it as distinct as it can be turned up to": {
+        "intent": "volume.value",
+        "entities": {
+            "volume": "volume_max"
+        }
+    },
+    "increase the audio strength to the highest setting": {
+        "intent": "volume.value",
+        "entities": {
+            "volume": "volume_max"
+        }
+    },
+    "up the volume strength to the highest setting": {
+        "intent": "volume.value",
+        "entities": {
+            "volume": "volume_max"
+        }
+    },
+    "make the sound as loud as it can be": {
+        "intent": "volume.value",
+        "entities": {
+            "volume": "volume_max"
+        }
+    },
+    "up the volume strength to the loudest setting": {
+        "intent": "volume.value",
+        "entities": {
+            "volume": "volume_max"
+        }
+    },
+    "raise the audio setting to the highest setting": {
+        "intent": "volume.value",
+        "entities": {
+            "volume": "volume_max"
+        }
+    },
+    "up the volume strength to the maximum level": {
+        "intent": "volume.value",
+        "entities": {
+            "volume": "volume_max"
+        }
+    },
+    "make the volume as loud as it can get": {
+        "intent": "volume.value",
+        "entities": {
+            "volume": "volume_max"
+        }
+    },
+    "boost the audio intensity to the loudest setting": {
+        "intent": "volume.value",
+        "entities": {
+            "volume": "volume_max"
+        }
+    }
+}

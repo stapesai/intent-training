@@ -1,0 +1,464 @@
+{
+    "make it more clear": {
+        "intent": "volume.increase",
+        "entities": {
+            "volume": "current_volume + volume_increment"
+        }
+    },
+    "make the volume as loud": {
+        "intent": "volume.increase",
+        "entities": {
+            "volume": "current_volume + volume_increment"
+        }
+    },
+    "make the volume louder still": {
+        "intent": "volume.increase",
+        "entities": {
+            "volume": "current_volume + volume_increment"
+        }
+    },
+    "make the voice louder": {
+        "intent": "volume.increase",
+        "entities": {
+            "volume": "current_volume + volume_increment"
+        }
+    },
+    "boost the voice volume": {
+        "intent": "volume.increase",
+        "entities": {
+            "volume": "current_volume + volume_increment"
+        }
+    },
+    "raise the volume output higher": {
+        "intent": "volume.increase",
+        "entities": {
+            "volume": "current_volume + volume_increment"
+        }
+    },
+    "raise the volume level higher": {
+        "intent": "volume.increase",
+        "entities": {
+            "volume": "current_volume + volume_increment"
+        }
+    },
+    "make it more audible": {
+        "intent": "volume.increase",
+        "entities": {
+            "volume": "current_volume + volume_increment"
+        }
+    },
+    "up the volume strength": {
+        "intent": "volume.increase",
+        "entities": {
+            "volume": "current_volume + volume_increment"
+        }
+    },
+    "increase the loudness": {
+        "intent": "volume.increase",
+        "entities": {
+            "volume": "current_volume + volume_increment"
+        }
+    },
+    "increase the sound level": {
+        "intent": "volume.increase",
+        "entities": {
+            "volume": "current_volume + volume_increment"
+        }
+    },
+    "increase the sound power": {
+        "intent": "volume.increase",
+        "entities": {
+            "volume": "current_volume + volume_increment"
+        }
+    },
+    "turn the volume up even more": {
+        "intent": "volume.increase",
+        "entities": {
+            "volume": "current_volume + volume_increment"
+        }
+    },
+    "amplify the audio output even more": {
+        "intent": "volume.increase",
+        "entities": {
+            "volume": "current_volume + volume_increment"
+        }
+    },
+    "boost the volume output": {
+        "intent": "volume.increase",
+        "entities": {
+            "volume": "current_volume + volume_increment"
+        }
+    },
+    "louden the audio output": {
+        "intent": "volume.increase",
+        "entities": {
+            "volume": "current_volume + volume_increment"
+        }
+    },
+    "increase the volume intensity": {
+        "intent": "volume.increase",
+        "entities": {
+            "volume": "current_volume + volume_increment"
+        }
+    },
+    "up the voice volume": {
+        "intent": "volume.increase",
+        "entities": {
+            "volume": "current_volume + volume_increment"
+        }
+    },
+    "turn the volume knob up": {
+        "intent": "volume.increase",
+        "entities": {
+            "volume": "current_volume + volume_increment"
+        }
+    },
+    "raise the volume knob": {
+        "intent": "volume.increase",
+        "entities": {
+            "volume": "current_volume + volume_increment"
+        }
+    },
+    "make the voice clearer": {
+        "intent": "volume.increase",
+        "entities": {
+            "volume": "current_volume + volume_increment"
+        }
+    },
+    "boost the voice intensity": {
+        "intent": "volume.increase",
+        "entities": {
+            "volume": "current_volume + volume_increment"
+        }
+    },
+    "louden the audio output even more": {
+        "intent": "volume.increase",
+        "entities": {
+            "volume": "current_volume + volume_increment"
+        }
+    },
+    "turn the volume up more": {
+        "intent": "volume.increase",
+        "entities": {
+            "volume": "current_volume + volume_increment"
+        }
+    },
+    "amplify the volume": {
+        "intent": "volume.increase",
+        "entities": {
+            "volume": "current_volume + volume_increment"
+        }
+    },
+    "boost the volume": {
+        "intent": "volume.increase",
+        "entities": {
+            "volume": "current_volume + volume_increment"
+        }
+    },
+    "make": {
+        "intent": "volume.increase",
+        "entities": {
+            "volume": "current_volume + volume_increment"
+        }
+    },
+    "make the sound stronger": {
+        "intent": "volume.increase",
+        "entities": {
+            "volume": "current_volume + volume_increment"
+        }
+    },
+    "turn the volume up": {
+        "intent": "volume.increase",
+        "entities": {
+            "volume": "current_volume + volume_increment"
+        }
+    },
+    "raise the audio level": {
+        "intent": "volume.increase",
+        "entities": {
+            "volume": "current_volume + volume_increment"
+        }
+    },
+    "boost the audio intensity": {
+        "intent": "volume.increase",
+        "entities": {
+            "volume": "current_volume + volume_increment"
+        }
+    },
+    "boost the audio volume": {
+        "intent": "volume.increase",
+        "entities": {
+            "volume": "current_volume + volume_increment"
+        }
+    },
+    "raise the audio output": {
+        "intent": "volume.increase",
+        "entities": {
+            "volume": "current_volume + volume_increment"
+        }
+    },
+    "make the voice even more distinct": {
+        "intent": "volume.increase",
+        "entities": {
+            "volume": "current_volume + volume_increment"
+        }
+    },
+    "up the audio volume": {
+        "intent": "volume.increase",
+        "entities": {
+            "volume": "current_volume + volume_increment"
+        }
+    },
+    "raise the decibel level": {
+        "intent": "volume.increase",
+        "entities": {
+            "volume": "current_volume + volume_increment"
+        }
+    },
+    "make the voice more audible": {
+        "intent": "volume.increase",
+        "entities": {
+            "volume": "current_volume + volume_increment"
+        }
+    },
+    "elevate the volume": {
+        "intent": "volume.increase",
+        "entities": {
+            "volume": "current_volume + volume_increment"
+        }
+    },
+    "raise the volume control": {
+        "intent": "volume.increase",
+        "entities": {
+            "volume": "current_volume + volume_increment"
+        }
+    },
+    "make it more pronounced": {
+        "intent": "volume.increase",
+        "entities": {
+            "volume": "current_volume + volume_increment"
+        }
+    },
+    "raise the volume": {
+        "intent": "volume.increase",
+        "entities": {
+            "volume": "current_volume + volume_increment"
+        }
+    },
+    "increase the volume output": {
+        "intent": "volume.increase",
+        "entities": {
+            "volume": "current_volume + volume_increment"
+        }
+    },
+    "turn the volume up to the max": {
+        "intent": "volume.increase",
+        "entities": {
+            "volume": "current_volume + volume_increment"
+        }
+    },
+    "turn up the volume": {
+        "intent": "volume.increase",
+        "entities": {
+            "volume": "current_volume + volume_increment"
+        }
+    },
+    "amplify the voice output": {
+        "intent": "volume.increase",
+        "entities": {
+            "volume": "current_volume + volume_increment"
+        }
+    },
+    "louden the audio level": {
+        "intent": "volume.increase",
+        "entities": {
+            "volume": "current_volume + volume_increment"
+        }
+    },
+    "increase the audio strength": {
+        "intent": "volume.increase",
+        "entities": {
+            "volume": "current_volume + volume_increment"
+        }
+    },
+    "up the volume intensity": {
+        "intent": "volume.increase",
+        "entities": {
+            "volume": "current_volume + volume_increment"
+        }
+    },
+    "make the voice more distinct": {
+        "intent": "volume.increase",
+        "entities": {
+            "volume": "current_volume + volume_increment"
+        }
+    },
+    "increase the sound intensity": {
+        "intent": "volume.increase",
+        "entities": {
+            "volume": "current_volume + volume_increment"
+        }
+    },
+    "raise the volume setting": {
+        "intent": "volume.increase",
+        "entities": {
+            "volume": "current_volume + volume_increment"
+        }
+    },
+    "amplify the audio level": {
+        "intent": "volume.increase",
+        "entities": {
+            "volume": "current_volume + volume_increment"
+        }
+    },
+    "louden the voice output": {
+        "intent": "volume.increase",
+        "entities": {
+            "volume": "current_volume + volume_increment"
+        }
+    },
+    "increase the volume level": {
+        "intent": "volume.increase",
+        "entities": {
+            "volume": "current_volume + volume_increment"
+        }
+    },
+    "make the sound clearer": {
+        "intent": "volume.increase",
+        "entities": {
+            "volume": "current_volume + volume_increment"
+        }
+    },
+    "turn the volume up all the way": {
+        "intent": "volume.increase",
+        "entities": {
+            "volume": "current_volume + volume_increment"
+        }
+    },
+    "up the volume": {
+        "intent": "volume.increase",
+        "entities": {
+            "volume": "current_volume + volume_increment"
+        }
+    },
+    "amplify the audio": {
+        "intent": "volume.increase",
+        "entities": {
+            "volume": "current_volume + volume_increment"
+        }
+    },
+    "increase the audio power": {
+        "intent": "volume.increase",
+        "entities": {
+            "volume": "current_volume + volume_increment"
+        }
+    },
+    "make it louder": {
+        "intent": "volume.increase",
+        "entities": {
+            "volume": "current_volume + volume_increment"
+        }
+    },
+    "make the volume stronger": {
+        "intent": "volume.increase",
+        "entities": {
+            "volume": "current_volume + volume_increment"
+        }
+    },
+    "amplify the audio output": {
+        "intent": "volume.increase",
+        "entities": {
+            "volume": "current_volume + volume_increment"
+        }
+    },
+    "make the sound louder": {
+        "intent": "volume.increase",
+        "entities": {
+            "volume": "current_volume + volume_increment"
+        }
+    },
+    "raise the audio setting": {
+        "intent": "volume.increase",
+        "entities": {
+            "volume": "current_volume + volume_increment"
+        }
+    },
+    "make it more distinct": {
+        "intent": "volume.increase",
+        "entities": {
+            "volume": "current_volume + volume_increment"
+        }
+    },
+    "up the volume level": {
+        "intent": "volume.increase",
+        "entities": {
+            "volume": "current_volume + volume_increment"
+        }
+    },
+    "make audio louder": {
+        "intent": "volume.increase",
+        "entities": {
+            "volume": "current_volume + volume_increment"
+        }
+    },
+    "make it more understandable": {
+        "intent": "volume.increase",
+        "entities": {
+            "volume": "current_volume + volume_increment"
+        }
+    },
+    "turn the volume higher": {
+        "intent": "volume.increase",
+        "entities": {
+            "volume": "current_volume + volume_increment"
+        }
+    },
+    "make the voice clearer still": {
+        "intent": "volume.increase",
+        "entities": {
+            "volume": "current_volume + volume_increment"
+        }
+    },
+    "make the volume higher": {
+        "intent": "volume.increase",
+        "entities": {
+            "volume": "current_volume + volume_increment"
+        }
+    },
+    "amplify the voice": {
+        "intent": "volume.increase",
+        "entities": {
+            "volume": "current_volume + volume_increment"
+        }
+    },
+    "increase the volume power": {
+        "intent": "volume.increase",
+        "entities": {
+            "volume": "current_volume + volume_increment"
+        }
+    },
+    "louden the volume": {
+        "intent": "volume.increase",
+        "entities": {
+            "volume": "current_volume + volume_increment"
+        }
+    },
+    "increase the volume strength": {
+        "intent": "volume.increase",
+        "entities": {
+            "volume": "current_volume + volume_increment"
+        }
+    },
+    "raise the audio level higher": {
+        "intent": "volume.increase",
+        "entities": {
+            "volume": "current_volume + volume_increment"
+        }
+    },
+    "increase the audio intensity": {
+        "intent": "volume.increase",
+        "entities": {
+            "volume": "current_volume + volume_increment"
+        }
+    }
+}
