@@ -1,0 +1,824 @@
+{
+    "enable speech input settings": {
+        "intent": "volume.value",
+        "entities": {
+            "volume": "last_volume"
+        }
+    },
+    "enable microphone access": {
+        "intent": "volume.value",
+        "entities": {
+            "volume": "last_volume"
+        }
+    },
+    "activate audio input": {
+        "intent": "volume.value",
+        "entities": {
+            "volume": "last_volume"
+        }
+    },
+    "enable speech": {
+        "intent": "volume.value",
+        "entities": {
+            "volume": "last_volume"
+        }
+    },
+    "turn off quiet": {
+        "intent": "volume.value",
+        "entities": {
+            "volume": "last_volume"
+        }
+    },
+    "bring back audio output": {
+        "intent": "volume.value",
+        "entities": {
+            "volume": "last_volume"
+        }
+    },
+    "allow audio output settings": {
+        "intent": "volume.value",
+        "entities": {
+            "volume": "last_volume"
+        }
+    },
+    "bring back audio capture settings": {
+        "intent": "volume.value",
+        "entities": {
+            "volume": "last_volume"
+        }
+    },
+    "start hearing me once more": {
+        "intent": "volume.value",
+        "entities": {
+            "volume": "last_volume"
+        }
+    },
+    "start hearing me again now please": {
+        "intent": "volume.value",
+        "entities": {
+            "volume": "last_volume"
+        }
+    },
+    "enable speech input mode": {
+        "intent": "volume.value",
+        "entities": {
+            "volume": "last_volume"
+        }
+    },
+    "enable microphone detection mode": {
+        "intent": "volume.value",
+        "entities": {
+            "volume": "last_volume"
+        }
+    },
+    "enable speaker output mode": {
+        "intent": "volume.value",
+        "entities": {
+            "volume": "last_volume"
+        }
+    },
+    "enable listening": {
+        "intent": "volume.value",
+        "entities": {
+            "volume": "last_volume"
+        }
+    },
+    "bring back sound input": {
+        "intent": "volume.value",
+        "entities": {
+            "volume": "last_volume"
+        }
+    },
+    "enable voice detection": {
+        "intent": "volume.value",
+        "entities": {
+            "volume": "last_volume"
+        }
+    },
+    "enable voice commands": {
+        "intent": "volume.value",
+        "entities": {
+            "volume": "last_volume"
+        }
+    },
+    "allow speech detection": {
+        "intent": "volume.value",
+        "entities": {
+            "volume": "last_volume"
+        }
+    },
+    "enable microphone recording": {
+        "intent": "volume.value",
+        "entities": {
+            "volume": "last_volume"
+        }
+    },
+    "unmute": {
+        "intent": "volume.value",
+        "entities": {
+            "volume": "last_volume"
+        }
+    },
+    "allow voice input mode": {
+        "intent": "volume.value",
+        "entities": {
+            "volume": "last_volume"
+        }
+    },
+    "start hearing me now please": {
+        "intent": "volume.value",
+        "entities": {
+            "volume": "last_volume"
+        }
+    },
+    "start hearing me loud and clear": {
+        "intent": "volume.value",
+        "entities": {
+            "volume": "last_volume"
+        }
+    },
+    "enable microphone input settings": {
+        "intent": "volume.value",
+        "entities": {
+            "volume": "last_volume"
+        }
+    },
+    "enable microphone detection": {
+        "intent": "volume.value",
+        "entities": {
+            "volume": "last_volume"
+        }
+    },
+    "allow voice playback": {
+        "intent": "volume.value",
+        "entities": {
+            "volume": "last_volume"
+        }
+    },
+    "turn on voice": {
+        "intent": "volume.value",
+        "entities": {
+            "volume": "last_volume"
+        }
+    },
+    "bring back speech": {
+        "intent": "volume.value",
+        "entities": {
+            "volume": "last_volume"
+        }
+    },
+    "allow audio detection": {
+        "intent": "volume.value",
+        "entities": {
+            "volume": "last_volume"
+        }
+    },
+    "allow speech detection mode": {
+        "intent": "volume.value",
+        "entities": {
+            "volume": "last_volume"
+        }
+    },
+    "start hearing me again now": {
+        "intent": "volume.value",
+        "entities": {
+            "volume": "last_volume"
+        }
+    },
+    "start hearing my voice": {
+        "intent": "volume.value",
+        "entities": {
+            "volume": "last_volume"
+        }
+    },
+    "open microphone": {
+        "intent": "volume.value",
+        "entities": {
+            "volume": "last_volume"
+        }
+    },
+    "start hearing me now": {
+        "intent": "volume.value",
+        "entities": {
+            "volume": "last_volume"
+        }
+    },
+    "start hearing my voice again": {
+        "intent": "volume.value",
+        "entities": {
+            "volume": "last_volume"
+        }
+    },
+    "start accepting sound": {
+        "intent": "volume.value",
+        "entities": {
+            "volume": "last_volume"
+        }
+    },
+    "bring back audio capture": {
+        "intent": "volume.value",
+        "entities": {
+            "volume": "last_volume"
+        }
+    },
+    "bring back sound output": {
+        "intent": "volume.value",
+        "entities": {
+            "volume": "last_volume"
+        }
+    },
+    "start receiving audio": {
+        "intent": "volume.value",
+        "entities": {
+            "volume": "last_volume"
+        }
+    },
+    "enable microphone recognition settings": {
+        "intent": "volume.value",
+        "entities": {
+            "volume": "last_volume"
+        }
+    },
+    "allow audio output": {
+        "intent": "volume.value",
+        "entities": {
+            "volume": "last_volume"
+        }
+    },
+    "enable voice": {
+        "intent": "volume.value",
+        "entities": {
+            "volume": "last_volume"
+        }
+    },
+    "bring back voice recognition": {
+        "intent": "volume.value",
+        "entities": {
+            "volume": "last_volume"
+        }
+    },
+    "bring back noise": {
+        "intent": "volume.value",
+        "entities": {
+            "volume": "last_volume"
+        }
+    },
+    "turn on listening": {
+        "intent": "volume.value",
+        "entities": {
+            "volume": "last_volume"
+        }
+    },
+    "turn on sound": {
+        "intent": "volume.value",
+        "entities": {
+            "volume": "last_volume"
+        }
+    },
+    "bring back voice commands": {
+        "intent": "volume.value",
+        "entities": {
+            "volume": "last_volume"
+        }
+    },
+    "enable microphone capture": {
+        "intent": "volume.value",
+        "entities": {
+            "volume": "last_volume"
+        }
+    },
+    "bring back sound detection settings": {
+        "intent": "volume.value",
+        "entities": {
+            "volume": "last_volume"
+        }
+    },
+    "enable microphone detection settings": {
+        "intent": "volume.value",
+        "entities": {
+            "volume": "last_volume"
+        }
+    },
+    "enable microphone response": {
+        "intent": "volume.value",
+        "entities": {
+            "volume": "last_volume"
+        }
+    },
+    "allow voice recording": {
+        "intent": "volume.value",
+        "entities": {
+            "volume": "last_volume"
+        }
+    },
+    "wake up": {
+        "intent": "volume.value",
+        "entities": {
+            "volume": "last_volume"
+        }
+    },
+    "enable listening mode": {
+        "intent": "volume.value",
+        "entities": {
+            "volume": "last_volume"
+        }
+    },
+    "bring back sound output settings": {
+        "intent": "volume.value",
+        "entities": {
+            "volume": "last_volume"
+        }
+    },
+    "enable microphone input": {
+        "intent": "volume.value",
+        "entities": {
+            "volume": "last_volume"
+        }
+    },
+    "bring back audio playback": {
+        "intent": "volume.value",
+        "entities": {
+            "volume": "last_volume"
+        }
+    },
+    "start hearing me now again please": {
+        "intent": "volume.value",
+        "entities": {
+            "volume": "last_volume"
+        }
+    },
+    "start hearing": {
+        "intent": "volume.value",
+        "entities": {
+            "volume": "last_volume"
+        }
+    },
+    "turn on hearing": {
+        "intent": "volume.value",
+        "entities": {
+            "volume": "last_volume"
+        }
+    },
+    "start hearing me": {
+        "intent": "volume.value",
+        "entities": {
+            "volume": "last_volume"
+        }
+    },
+    "bring back sound recording": {
+        "intent": "volume.value",
+        "entities": {
+            "volume": "last_volume"
+        }
+    },
+    "allow speech commands": {
+        "intent": "volume.value",
+        "entities": {
+            "volume": "last_volume"
+        }
+    },
+    "turn off mute": {
+        "intent": "volume.value",
+        "entities": {
+            "volume": "last_volume"
+        }
+    },
+    "start hearing me loud and clear again": {
+        "intent": "volume.value",
+        "entities": {
+            "volume": "last_volume"
+        }
+    },
+    "start hearing my commands again": {
+        "intent": "volume.value",
+        "entities": {
+            "volume": "last_volume"
+        }
+    },
+    "allow microphone access": {
+        "intent": "volume.value",
+        "entities": {
+            "volume": "last_volume"
+        }
+    },
+    "start talking": {
+        "intent": "volume.value",
+        "entities": {
+            "volume": "last_volume"
+        }
+    },
+    "allow speech input": {
+        "intent": "volume.value",
+        "entities": {
+            "volume": "last_volume"
+        }
+    },
+    "start hearing me again": {
+        "intent": "volume.value",
+        "entities": {
+            "volume": "last_volume"
+        }
+    },
+    "enable microphone commands": {
+        "intent": "volume.value",
+        "entities": {
+            "volume": "last_volume"
+        }
+    },
+    "allow sound input": {
+        "intent": "volume.value",
+        "entities": {
+            "volume": "last_volume"
+        }
+    },
+    "bring back voice": {
+        "intent": "volume.value",
+        "entities": {
+            "volume": "last_volume"
+        }
+    },
+    "bring back audio response": {
+        "intent": "volume.value",
+        "entities": {
+            "volume": "last_volume"
+        }
+    },
+    "bring back audio input settings": {
+        "intent": "volume.value",
+        "entities": {
+            "volume": "last_volume"
+        }
+    },
+    "enable speaker": {
+        "intent": "volume.value",
+        "entities": {
+            "volume": "last_volume"
+        }
+    },
+    "start hearing again please": {
+        "intent": "volume.value",
+        "entities": {
+            "volume": "last_volume"
+        }
+    },
+    "allow speech commands settings": {
+        "intent": "volume.value",
+        "entities": {
+            "volume": "last_volume"
+        }
+    },
+    "start hearing me clearly": {
+        "intent": "volume.value",
+        "entities": {
+            "volume": "last_volume"
+        }
+    },
+    "allow sound capture": {
+        "intent": "volume.value",
+        "entities": {
+            "volume": "last_volume"
+        }
+    },
+    "allow microphone": {
+        "intent": "volume.value",
+        "entities": {
+            "volume": "last_volume"
+        }
+    },
+    "allow microphone input mode": {
+        "intent": "volume.value",
+        "entities": {
+            "volume": "last_volume"
+        }
+    },
+    "bring back voice input": {
+        "intent": "volume.value",
+        "entities": {
+            "volume": "last_volume"
+        }
+    },
+    "start hearing again": {
+        "intent": "volume.value",
+        "entities": {
+            "volume": "last_volume"
+        }
+    },
+    "allow voice": {
+        "intent": "volume.value",
+        "entities": {
+            "volume": "last_volume"
+        }
+    },
+    "start hearing me once again please": {
+        "intent": "volume.value",
+        "entities": {
+            "volume": "last_volume"
+        }
+    },
+    "enable speaker output": {
+        "intent": "volume.value",
+        "entities": {
+            "volume": "last_volume"
+        }
+    },
+    "bring back audio recording": {
+        "intent": "volume.value",
+        "entities": {
+            "volume": "last_volume"
+        }
+    },
+    "allow audio detection settings": {
+        "intent": "volume.value",
+        "entities": {
+            "volume": "last_volume"
+        }
+    },
+    "start hearing me speak": {
+        "intent": "volume.value",
+        "entities": {
+            "volume": "last_volume"
+        }
+    },
+    "allow voice output mode": {
+        "intent": "volume.value",
+        "entities": {
+            "volume": "last_volume"
+        }
+    },
+    "allow sound capture settings": {
+        "intent": "volume.value",
+        "entities": {
+            "volume": "last_volume"
+        }
+    },
+    "allow audio input": {
+        "intent": "volume.value",
+        "entities": {
+            "volume": "last_volume"
+        }
+    },
+    "bring back voice commands settings": {
+        "intent": "volume.value",
+        "entities": {
+            "volume": "last_volume"
+        }
+    },
+    "resume audio": {
+        "intent": "volume.value",
+        "entities": {
+            "volume": "last_volume"
+        }
+    },
+    "allow voice response": {
+        "intent": "volume.value",
+        "entities": {
+            "volume": "last_volume"
+        }
+    },
+    "disable mute": {
+        "intent": "volume.value",
+        "entities": {
+            "volume": "last_volume"
+        }
+    },
+    "start hearing me now again": {
+        "intent": "volume.value",
+        "entities": {
+            "volume": "last_volume"
+        }
+    },
+    "start hearing me once more again please": {
+        "intent": "volume.value",
+        "entities": {
+            "volume": "last_volume"
+        }
+    },
+    "enable speaker output settings": {
+        "intent": "volume.value",
+        "entities": {
+            "volume": "last_volume"
+        }
+    },
+    "bring back audio input": {
+        "intent": "volume.value",
+        "entities": {
+            "volume": "last_volume"
+        }
+    },
+    "start hearing me again please": {
+        "intent": "volume.value",
+        "entities": {
+            "volume": "last_volume"
+        }
+    },
+    "turn off silence mode": {
+        "intent": "volume.value",
+        "entities": {
+            "volume": "last_volume"
+        }
+    },
+    "bring back voice input mode": {
+        "intent": "volume.value",
+        "entities": {
+            "volume": "last_volume"
+        }
+    },
+    "allow microphone input settings": {
+        "intent": "volume.value",
+        "entities": {
+            "volume": "last_volume"
+        }
+    },
+    "start hearing my commands": {
+        "intent": "volume.value",
+        "entities": {
+            "volume": "last_volume"
+        }
+    },
+    "bring back voice detection mode": {
+        "intent": "volume.value",
+        "entities": {
+            "volume": "last_volume"
+        }
+    },
+    "open up audio": {
+        "intent": "volume.value",
+        "entities": {
+            "volume": "last_volume"
+        }
+    },
+    "allow sound": {
+        "intent": "volume.value",
+        "entities": {
+            "volume": "last_volume"
+        }
+    },
+    "allow voice input": {
+        "intent": "volume.value",
+        "entities": {
+            "volume": "last_volume"
+        }
+    },
+    "resume listening": {
+        "intent": "volume.value",
+        "entities": {
+            "volume": "last_volume"
+        }
+    },
+    "bring back voice detection": {
+        "intent": "volume.value",
+        "entities": {
+            "volume": "last_volume"
+        }
+    },
+    "bring back audio input mode": {
+        "intent": "volume.value",
+        "entities": {
+            "volume": "last_volume"
+        }
+    },
+    "allow audio": {
+        "intent": "volume.value",
+        "entities": {
+            "volume": "last_volume"
+        }
+    },
+    "bring back voice input settings": {
+        "intent": "volume.value",
+        "entities": {
+            "volume": "last_volume"
+        }
+    },
+    "resume microphone": {
+        "intent": "volume.value",
+        "entities": {
+            "volume": "last_volume"
+        }
+    },
+    "allow sound output": {
+        "intent": "volume.value",
+        "entities": {
+            "volume": "last_volume"
+        }
+    },
+    "enable voice recognition": {
+        "intent": "volume.value",
+        "entities": {
+            "volume": "last_volume"
+        }
+    },
+    "start hearing me clearly again": {
+        "intent": "volume.value",
+        "entities": {
+            "volume": "last_volume"
+        }
+    },
+    "bring back audio output mode": {
+        "intent": "volume.value",
+        "entities": {
+            "volume": "last_volume"
+        }
+    },
+    "bring back voice recognition settings": {
+        "intent": "volume.value",
+        "entities": {
+            "volume": "last_volume"
+        }
+    },
+    "enable microphone response settings": {
+        "intent": "volume.value",
+        "entities": {
+            "volume": "last_volume"
+        }
+    },
+    "activate microphone": {
+        "intent": "volume.value",
+        "entities": {
+            "volume": "last_volume"
+        }
+    },
+    "allow voice input settings": {
+        "intent": "volume.value",
+        "entities": {
+            "volume": "last_volume"
+        }
+    },
+    "enable microphone capture settings": {
+        "intent": "volume.value",
+        "entities": {
+            "volume": "last_volume"
+        }
+    },
+    "start hearing me once again": {
+        "intent": "volume.value",
+        "entities": {
+            "volume": "last_volume"
+        }
+    },
+    "allow audio recording": {
+        "intent": "volume.value",
+        "entities": {
+            "volume": "last_volume"
+        }
+    },
+    "allow voice response settings": {
+        "intent": "volume.value",
+        "entities": {
+            "volume": "last_volume"
+        }
+    },
+    "start hearing me once more please": {
+        "intent": "volume.value",
+        "entities": {
+            "volume": "last_volume"
+        }
+    },
+    "start listening": {
+        "intent": "volume.value",
+        "entities": {
+            "volume": "last_volume"
+        }
+    },
+    "bring back sound detection": {
+        "intent": "volume.value",
+        "entities": {
+            "volume": "last_volume"
+        }
+    },
+    "bring back sound": {
+        "intent": "volume.value",
+        "entities": {
+            "volume": "last_volume"
+        }
+    },
+    "bring back audio response settings": {
+        "intent": "volume.value",
+        "entities": {
+            "volume": "last_volume"
+        }
+    },
+    "enable microphone input mode": {
+        "intent": "volume.value",
+        "entities": {
+            "volume": "last_volume"
+        }
+    },
+    "enable audio": {
+        "intent": "volume.value",
+        "entities": {
+            "volume": "last_volume"
+        }
+    },
+    "allow speech recognition settings": {
+        "intent": "volume.value",
+        "entities": {
+            "volume": "last_volume"
+        }
+    },
+    "turn off silence": {
+        "intent": "volume.value",
+        "entities": {
+            "volume": "last_volume"
+        }
+    }
+}

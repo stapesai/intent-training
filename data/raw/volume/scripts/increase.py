@@ -11,7 +11,7 @@ with open(inp_file, 'r') as f:
 
 def change_intent(intent):
     var = ['as clear as', 'as loud as', 'maximum',
-           'loudest', 'highest', 'as distinct as', 'as audible as']
+           'loudest', 'highest', 'as distinct as', 'as audible as','all the way up','100','full blast','full','all the way to the right']
     for i in var:
         if i in intent:
             return True

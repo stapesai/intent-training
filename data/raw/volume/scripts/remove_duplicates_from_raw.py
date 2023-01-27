@@ -1,7 +1,7 @@
 # Description: This script removes duplicate lines from the raw data files
 
-inp_file = 'data/raw/volume/mute.txt'
-out_file = 'data/raw/volume/mute.txt'
+inp_file = 'data/raw/volume/increase_mixed.txt'
+out_file = 'data/raw/volume/increase_mixed.txt'
 
 with open(inp_file, 'r') as f:
     text = f.readlines()
