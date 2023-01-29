@@ -1,5 +1,5 @@
 from flask import Flask, request, jsonify
-from controller.api_helper import train_n_load, extract_info, load_all
+from controller._api_helper import train_n_load, extract_info, load_all
 
 application = Flask(__name__)
 
