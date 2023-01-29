@@ -1,6 +1,6 @@
 import os
-from controller.saving import models_dir
-from utilities.file_handler import load_pkl
+from controller._saving import models_dir
+from utilities._file_handler import load_pkl
 from tensorflow.keras.models import load_model
 
 
@@ -17,5 +17,5 @@ def loader():
             return metadata, model
         else:
             print('!! Incomplete Training. Skipping...')
-    
+
     return None, None

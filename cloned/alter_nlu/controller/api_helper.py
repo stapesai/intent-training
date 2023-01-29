@@ -1,6 +1,6 @@
-from training_data.data_validator import validate_json, check_intent_count
+from training_data._data_validator import validate_json, check_intent_count
 from controller.loading import loader
-from controller.train import start_train
+from controller._train import start_train
 from extractors.extract_intent import get_intent
 from extractors.extract_entity import extract_entity
 

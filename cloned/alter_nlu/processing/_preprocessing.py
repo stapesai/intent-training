@@ -7,23 +7,27 @@ from nltk.stem.snowball import SnowballStemmer
 
 # Load pretrained model
 # nlp = spacy.load('en')
-nlp = spacy.load('en', disable=['ner', 'parser'])
-nlp.add_pipe(nlp.create_pipe('sentencizer'))
+# nlp = spacy.load('en', disable=['ner', 'parser'])
+nlp = spacy.load("en_core_web_sm", disable=['ner', 'parser'])
+nlp.add_pipe('sentencizer')
 
 # Punctuation
 tr = str.maketrans(string.punctuation, ' '*len(string.punctuation))
+
 # Stemmer Language
 stemmer = SnowballStemmer("english")
 
 # remove punctuation
+
+
 def remove_punct(val):
-    return(re.sub(' +', ' ',val.translate(tr)).strip())
+    return (re.sub(' +', ' ', val.translate(tr)).strip())
 
 
 # snowball stemming
 def create_stem(val):
     stemmed = ' '.join([stemmer.stem(word) for word in val.split()])
-    return(stemmed)
+    return (stemmed)
 
 
 # remove pronouns
@@ -35,13 +39,14 @@ def remove_pron(val):
 def create_spacy_lemma(val):
     doc = nlp(val)
     lemma_sentence = ' '.join([token.lemma_ for token in doc])
-    return(remove_pron(lemma_sentence))
+    return (remove_pron(lemma_sentence))
 
 
 # clean function
 def create_spacy_clean(val):
-    clean_sentence = remove_pron(remove_punct(create_stem(create_spacy_lemma(val))).lower())
-    return(clean_sentence)
+    clean_sentence = remove_pron(remove_punct(
+        create_stem(create_spacy_lemma(val))).lower())
+    return (clean_sentence)
 
 
 # remove adjacent duplicate tokens

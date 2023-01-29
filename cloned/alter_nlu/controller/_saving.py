@@ -1,6 +1,6 @@
 import os
 import shutil
-from utilities.file_handler import save_pkl
+from utilities._file_handler import save_pkl
 
 
 models_dir = './bot_model'

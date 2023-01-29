@@ -1,10 +1,11 @@
 from jsonschema import validate
-from training_data.schema import *
+from training_data._schema import *
 
 
 # check number of intents
 def check_intent_count(val):
-    intent_count = len(set(map(lambda datum: datum['intent'], val['intent_data'])))
+    intent_count = len(
+        set(map(lambda datum: datum['intent'], val['intent_data'])))
     if intent_count >= 2:
         return False
     else:
@@ -12,7 +13,7 @@ def check_intent_count(val):
 
 
 # validate training data with schema
-def validate_json(val):    
+def validate_json(val):
     try:
         for item in val['intent_data']:
             validate(item, intent_data_schema)
