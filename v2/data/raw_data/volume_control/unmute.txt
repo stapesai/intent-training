@@ -1,0 +1,137 @@
+enable speech input settings
+enable microphone access
+activate audio input
+enable speech
+turn off quiet
+bring back audio output
+allow audio output settings
+bring back audio capture settings
+start hearing me once more
+start hearing me again now please
+enable speech input mode
+enable microphone detection mode
+enable speaker output mode
+enable listening
+bring back sound input
+enable voice detection
+enable voice commands
+allow speech detection
+enable microphone recording
+unmute
+allow voice input mode
+start hearing me now please
+start hearing me loud and clear
+enable microphone input settings
+enable microphone detection
+allow voice playback
+turn on voice
+bring back speech
+allow audio detection
+allow speech detection mode
+start hearing me again now
+start hearing my voice
+open microphone
+start hearing me now
+start hearing my voice again
+start accepting sound
+bring back audio capture
+bring back sound output
+start receiving audio
+enable microphone recognition settings
+allow audio output
+enable voice
+bring back voice recognition
+bring back noise
+turn on listening
+turn on sound
+bring back voice commands
+enable microphone capture
+bring back sound detection settings
+enable microphone detection settings
+enable microphone response
+allow voice recording
+wake up
+enable listening mode
+bring back sound output settings
+enable microphone input
+bring back audio playback
+start hearing me now again please
+start hearing
+turn on hearing
+start hearing me
+bring back sound recording
+allow speech commands
+turn off mute
+start hearing me loud and clear again
+start hearing my commands again
+allow microphone access
+start talking
+allow speech input
+start hearing me again
+enable microphone commands
+allow sound input
+bring back voice
+bring back audio response
+bring back audio input settings
+enable speaker
+start hearing again please
+allow speech commands settings
+start hearing me clearly
+allow sound capture
+allow microphone
+allow microphone input mode
+bring back voice input
+start hearing again
+allow voice
+start hearing me once again please
+enable speaker output
+bring back audio recording
+allow audio detection settings
+start hearing me speak
+allow voice output mode
+allow sound capture settings
+allow audio input
+bring back voice commands settings
+resume audio
+allow voice response
+disable mute
+start hearing me now again
+start hearing me once more again please
+enable speaker output settings
+bring back audio input
+start hearing me again please
+turn off silence mode
+bring back voice input mode
+allow microphone input settings
+start hearing my commands
+bring back voice detection mode
+open up audio
+allow sound
+allow voice input
+resume listening
+bring back voice detection
+bring back audio input mode
+allow audio
+bring back voice input settings
+resume microphone
+allow sound output
+enable voice recognition
+start hearing me clearly again
+bring back audio output mode
+bring back voice recognition settings
+enable microphone response settings
+activate microphone
+allow voice input settings
+enable microphone capture settings
+start hearing me once again
+allow audio recording
+allow voice response settings
+start hearing me once more please
+start listening
+bring back sound detection
+bring back sound
+bring back audio response settings
+enable microphone input mode
+enable audio
+allow speech recognition settings
+turn off silence

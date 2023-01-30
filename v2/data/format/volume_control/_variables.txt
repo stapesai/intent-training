@@ -1,0 +1,17 @@
+# variables for volume increment
+volume_max = 90
+volume_increment = 10
+current_volume
+
+# variables for volume decrement
+volume_decrement = 10
+current_volume
+
+# variables for mute
+None
+
+# variables for set_by_volume
+None
+
+# variables for unmute
+last_volume

@@ -1,0 +1,13 @@
+{
+    "query": "input text",
+    "intent": "intent name",
+    "entities": [
+      {
+        "entity": "entity name",
+        "value": "entity value",
+        "start": "int_value",
+        "end": "int_value"
+      }
+    
+    ]
+  }

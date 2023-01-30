@@ -1,0 +1,5 @@
+volume.increase
+volume.decrease
+volume.set_by_value
+volume.mute
+volume.unmute
